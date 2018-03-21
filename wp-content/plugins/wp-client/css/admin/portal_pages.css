@@ -1,0 +1,26 @@
+.subsubsub {
+    margin: 0 0 0 130px; float:left;
+}
+
+#wpc_portal_pages_form {
+    position: absolute;
+    top:15px;
+    width:100%;
+    left: 0;
+    right: 0;
+}
+
+.wpc_tab_container_block {
+    position: relative;
+    float:left;
+    width:100%;
+}
+
+.add-new-h2 {
+    position: absolute !important;
+    top:15px !important;
+}
+
+#wpc_portal_pages_form .search-box {
+    margin: 0 0 4px 0;
+}

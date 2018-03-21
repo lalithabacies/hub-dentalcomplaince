@@ -1,0 +1,2 @@
+<?php
+ if ( ! defined( 'ABSPATH' ) ) { exit; } $data['logout_url'] = $this->cc_get_logout_url(); if( empty( $atts['text'] ) ) { $data['labels']['logout'] = __( 'LOGOUT', WPC_CLIENT_TEXT_DOMAIN ); } else { $data['labels']['logout'] = $atts['text']; } $out2 = $this->cc_getTemplateContent( 'wpc_client_logoutb', $data ); return $this->cc_replace_placeholders( do_shortcode( $out2 ) );

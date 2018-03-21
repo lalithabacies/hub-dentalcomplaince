@@ -1,0 +1,2927 @@
+# LANGUAGE (LOCALE) translation for WordPress.
+# Copyright (C) YEAR WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Client-Project-Management\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-05 12:20+0200\n"
+"PO-Revision-Date: 2016-04-05 12:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: e:\\wp-client-project-management\n"
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:71
+#: e:\wp-client-project-management/includes/pm_class.admin.php:82
+#: e:\wp-client-project-management/includes/pm_class.admin.php:84
+#: e:\wp-client-project-management/includes/admin/add_project.php:125
+#: e:\wp-client-project-management/includes/admin/add_project.php:126
+#: e:\wp-client-project-management/includes/admin/add_project.php:145
+#: e:\wp-client-project-management/includes/admin/add_project.php:146
+#: e:\wp-client-project-management/includes/admin/add_project.php:165
+#: e:\wp-client-project-management/includes/admin/add_project.php:166
+#, php-format
+msgid "Assign %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:86
+#: e:\wp-client-project-management/includes/admin/add_project.php:106
+#: e:\wp-client-project-management/includes/admin/add_project.php:107
+#, php-format
+msgid "Assign %s and %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:434
+#, php-format
+msgid ">> Select Options for %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:443
+msgid "Save Current User Role"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:445
+#, php-format
+msgid "If checked, the user's current role will be saved, but user will also take on characteristics of the %s role."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:450
+#, php-format
+msgid "Convert to %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:473
+#: e:\wp-client-project-management/includes/pm_class.admin.php:818
+#: e:\wp-client-project-management/includes/pm_class.admin.php:929
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3866
+msgid "My Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:478
+#: e:\wp-client-project-management/includes/pm_class.admin.php:833
+#: e:\wp-client-project-management/includes/pm_class.admin.php:957
+msgid "Teams"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:565
+msgid "Avatar was added"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:587
+msgid "Sorry, you have reached the maximum number of "
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:667
+#: e:\wp-client-project-management/includes/pm_class.admin.php:668
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3869
+msgid "Project Management"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:822
+#: e:\wp-client-project-management/includes/pm_class.admin.php:933
+msgid "Calendar"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:827
+#: e:\wp-client-project-management/includes/pm_class.admin.php:973
+#, php-format
+msgid "Archived %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:830
+#: e:\wp-client-project-management/includes/pm_class.admin.php:965
+msgid "Users"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:840
+#: e:\wp-client-project-management/includes/pm_class.admin.php:937
+#: e:\wp-client-project-management/includes/pm_class.admin.php:941
+msgid "Work Request"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:843
+#: e:\wp-client-project-management/includes/pm_class.admin.php:985
+msgid "Custom Fields"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:847
+#: e:\wp-client-project-management/includes/pm_class.admin.php:925
+msgid "My Preferences"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:851
+#: e:\wp-client-project-management/includes/pm_class.admin.php:921
+msgid "Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:872
+msgid "Dashboard"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:877
+msgid "Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:882
+msgid "Milestones"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:887
+msgid "Files"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:892
+msgid "Team Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:901
+msgid "Client Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:946
+#: e:\wp-client-project-management/includes/pm_class.admin.php:954
+#: e:\wp-client-project-management/includes/pm_class.admin.php:962
+#: e:\wp-client-project-management/includes/pm_class.admin.php:970
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1005
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1013
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1020
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1027
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1034
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1249
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1256
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1263
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1270
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1279
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1285
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1299
+msgid "You don't have permission to this page."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1008
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1102
+msgid "You don't have permission to this project."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1206
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1436
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1887
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3431
+#: e:\wp-client-project-management/includes/pm_class.user.php:166
+#: e:\wp-client-project-management/includes/pm_class.user.php:369
+msgid " - Cancelled"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1207
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1437
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1888
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3432
+#: e:\wp-client-project-management/includes/pm_class.user.php:167
+#: e:\wp-client-project-management/includes/pm_class.user.php:370
+msgid " - Completed"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1208
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1438
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1889
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3433
+#: e:\wp-client-project-management/includes/pm_class.user.php:168
+#: e:\wp-client-project-management/includes/pm_class.user.php:371
+msgid "404 Error"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1209
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1439
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1890
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3434
+#: e:\wp-client-project-management/includes/pm_class.user.php:169
+#: e:\wp-client-project-management/includes/pm_class.user.php:372
+msgid "403 Forbidden"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1210
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1440
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1891
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3435
+#: e:\wp-client-project-management/includes/pm_class.user.php:170
+#: e:\wp-client-project-management/includes/pm_class.user.php:373
+msgid "Forbidden File Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1211
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1441
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1892
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3436
+#: e:\wp-client-project-management/includes/pm_class.user.php:171
+#: e:\wp-client-project-management/includes/pm_class.user.php:374
+msgid "File Too Large"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1212
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1442
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1893
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3437
+#: e:\wp-client-project-management/includes/pm_class.user.php:172
+#: e:\wp-client-project-management/includes/pm_class.user.php:375
+msgid "Unknown Error"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1804
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:24
+msgid "file"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1805
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:25
+msgid "files"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1870
+msgid "Filename"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1871
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3224
+#: e:\wp-client-project-management/includes/admin/add_project.php:63
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:267
+msgid "Description"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1872
+msgid "Author"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1873
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:268
+msgid "Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1874
+msgid "Creation Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1953
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2113
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2347
+msgid "Please enter project name."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:1966
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2103
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2337
+msgid " is required! Please fill in the field and try again!<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2063
+msgid "Can't create project. Please try again later."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2090
+#: e:\wp-client-project-management/includes/admin/add_project.php:265
+#, php-format
+msgid "Duplicate %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2308
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2494
+msgid "Wrong project ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2324
+#: e:\wp-client-project-management/includes/admin/add_project.php:269
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2596
+msgid "A username is required.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2599
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2700
+msgid "Email is not valid.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2604
+msgid "Email address already used.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2607
+msgid "Sorry, password is required.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2609
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2711
+msgid "Sorry, confirm password is required.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2611
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2713
+msgid "Sorry, Passwords are not matched! .<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2671
+msgid "Cann't create user!"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2676
+msgid "Add User"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2706
+msgid "Email address already uses.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2788
+msgid "Save Changes to User"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2832
+#: e:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:22
+msgid "user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2833
+#: e:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:23
+msgid "users"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2880
+#: e:\wp-client-project-management/includes/admin/add_user.php:66
+msgid "Username"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2881
+msgid "Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2882
+#: e:\wp-client-project-management/includes/admin/add_user.php:78
+msgid "E-mail"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2883
+#: e:\wp-client-project-management/includes/admin/add_user.php:54
+msgid "Role"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2910
+msgid "Team name already exists."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2913
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2969
+msgid "Please enter team name."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2955
+msgid "Can't create team. Please try again later."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:2975
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2973
+msgid "Wrong user ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3098
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3240
+msgid "You don't have permission to this page"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3223
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3318
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:549
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:266
+msgid "Title"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3291
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3292
+#: e:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:23
+msgid "request"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3319
+msgid "Client"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3320
+msgid "Request Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3518
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3585
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3677
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3769
+msgid "Assign"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3632
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3724
+#, php-format
+msgid "Assign %s:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3647
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3739
+msgid "Search"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.admin.php:3864
+#, php-format
+msgid "%s Dashboard"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:251
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1320
+#: e:\wp-client-project-management/includes/admin/calendar.php:33
+msgid "Pending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:252
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1324
+msgid "Incomplete"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:253
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:940
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1003
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1066
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1137
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1152
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1328
+msgid "Completed"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:277
+msgid "Wrong Request ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:283
+msgid "Title is required field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:293
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:461
+msgid "Request does not exists"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:371
+msgid "Can not create project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:382
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:453
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:460
+#, php-format
+msgid "Create %s by Request"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:383
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3327
+msgid "Wrong data"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:410
+#, php-format
+msgid "%s Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:416
+#, php-format
+msgid "%s Description"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:422
+msgid "Due date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:442
+msgid "Ok"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:443
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:354
+msgid "Cancel"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:473
+msgid "Wrong action"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:481
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2607
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2827
+msgid "Title is empty"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:487
+msgid "Wrong price"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:493
+msgid "Wrong currency"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:499
+#, php-format
+msgid "Wrong %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:530
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:592
+msgid "Work Request Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:531
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:593
+msgid "Wrong Data"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:566
+msgid "Price"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:576
+msgid "Update"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:585
+msgid "Edit Work Request Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:602
+msgid "Wrong ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:612
+msgid "ID does not exists"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:632
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2503
+msgid "Sorry, you have used all of your storage quota."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1158
+msgid "Wrong update data."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1331
+msgid "Filter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1346
+msgid "From"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1350
+msgid "To"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1366
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1381
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1406
+msgid "Invalid Data"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1384
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2010
+msgid "Percentage of Completion"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1397
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2014
+msgid "Completion Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1421
+msgid "Date does not exists"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1455
+msgid "All time"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1561
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1563
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1573
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1575
+msgid "week"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1562
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1564
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1574
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1575
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1587
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1596
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1607
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1616
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1627
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1636
+msgid "year"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1607
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1616
+msgid "quarter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1803
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:81
+msgid "item"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1803
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:82
+msgid "items"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1803
+msgid "No items"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1851
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1860
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1866
+msgid "You don't have any projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1873
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1953
+msgid "Edit project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1874
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1954
+msgid "Duplicate project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1876
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1878
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1880
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1956
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1958
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1960
+msgid "Are you sure?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1876
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1956
+msgid "Restore project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1878
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1958
+msgid "Archive project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1880
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1960
+msgid "Delete project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1919
+msgid "All assigned"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1930
+msgid "View details"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:1992
+msgid "View All Assigned"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2305
+msgid "Wrong task id"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2311
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2570
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2592
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2816
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2904
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2964
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3016
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3054
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3106
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3182
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3233
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3264
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3291
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3320
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3405
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3504
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3528
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3713
+msgid "You don't have permission to this action"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2402
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2450
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:158
+msgid "Download"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2405
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2453
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:164
+msgid "View"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2419
+msgid "Error when try to save message"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2487
+msgid "Wrong type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2554
+msgid "There was an error uploading the file, please try again!"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2582
+msgid "Wrong task id."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2603
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2812
+msgid "Wrong project id."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2638
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2958
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2970
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3022
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3048
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3096
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3176
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3227
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3258
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3285
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3314
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3500
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3522
+msgid "Wrong task ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2645
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2659
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2683
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2718
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2739
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3026
+msgid "Wrong milestone ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2653
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3307
+msgid "Row deleted."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2663
+msgid "Wrong milestone title."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2677
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2696
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2713
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3011
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3042
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3089
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3170
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3221
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3252
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3279
+msgid "Row Updated."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2892
+msgid "Can not create task."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:2984
+msgid "You cann't assign user to parent task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3100
+msgid "Wrong task status."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3188
+msgid "Wrong task priority."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3240
+msgid "Wrong task title."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3490
+msgid "You don't have permition to this file"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3492
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3659
+msgid "Success"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3494
+msgid "Wrong input data."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3567
+msgid "Wrong task ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3575
+msgid "Wrong tag ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3631
+msgid "Something wrong"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3719
+msgid "Wrong Team ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3726
+msgid "Team does not exists."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:3748
+msgid "Empty Team"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:4085
+msgid "No Users For Assign."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.ajax.php:4265
+msgid "No Client Circles For Assign."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:153
+msgid "Project Management: Projects List"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:158
+msgid "Projects List"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:162
+msgid "Show Archived Projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:165
+#: e:\wp-client-project-management/includes/pm_class.common.php:433
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:298
+msgid "Yes"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:166
+#: e:\wp-client-project-management/includes/pm_class.common.php:432
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:299
+msgid "No"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:173
+msgid "Project Management: Work Request Form"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:204
+#: e:\wp-client-project-management/includes/pm_class.common.php:243
+msgid "You do not have access to this file!"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:207
+msgid "Wrong File ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:211
+#: e:\wp-client-project-management/includes/pm_class.common.php:222
+msgid "Invalid file. Please try downloading again!"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:249
+msgid "File does not exist"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:329
+msgid "Manage Milestones"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:388
+#: e:\wp-client-project-management/includes/pm_class.common.php:398
+#: e:\wp-client-project-management/includes/pm_class.common.php:413
+#, php-format
+msgid "%s List"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:410
+#, php-format
+msgid "Text: \"%s List\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:419
+msgid "Placeholder"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:422
+msgid "Click to copy"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:422
+msgid "Placeholder was copied"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:428
+#, php-format
+msgid "Show Archived %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:550
+msgid "Weekly"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:691
+msgid "Category successfully edited."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:695
+msgid "Category does not exists."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:699
+msgid "Category successfully deleted."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:856
+#, php-format
+msgid "%1$s created project \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:859
+#, php-format
+msgid "%1$s edited project \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:862
+#, php-format
+msgid "%1$s removed project \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:865
+#, php-format
+msgid "%1$s archived project \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:868
+#, php-format
+msgid "%1$s restored project \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:879
+#, php-format
+msgid "%1$s changed title for milestone to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:886
+#, php-format
+msgid "%1$s changed description for milestone \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:893
+#, php-format
+msgid "%1$s created milestone \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:896
+#, php-format
+msgid "%1$s edited milestone \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:899
+#, php-format
+msgid "%1$s removed milestone \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:910
+#, php-format
+msgid "%1$s appended task \"%2$s\" to milestone \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:913
+#, php-format
+msgid "%1$s unassigned task \"%2$s\" from milestone \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:921
+#, php-format
+msgid "%1$s set due date for task \"%2$s\" to %3$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:924
+#, php-format
+msgid "%1$s changed due date for task \"%2$s\" to %3$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:931
+#, php-format
+msgid "%1$s set priority for task \"%2$s\" to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:934
+#, php-format
+msgid "%1$s changed priority for task \"%2$s\" to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:941
+#, php-format
+msgid "%1$s set status for task \"%2$s\" to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:944
+#, php-format
+msgid "%1$s changed status for task \"%2$s\" to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:951
+#, php-format
+msgid "%1$s changed title for task to \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:958
+#, php-format
+msgid "%1$s changed description for task \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:966
+#, php-format
+msgid "%1$s created task \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:969
+#, php-format
+msgid "%1$s edited task \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:972
+#, php-format
+msgid "%1$s removed task \"%2$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:983
+#, php-format
+msgid "%1$s assigned user %2$s to project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:986
+#, php-format
+msgid "%1$s unassigned user %2$s from project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:995
+#, php-format
+msgid "%1$s assigned user %2$s to task \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:998
+#, php-format
+msgid "%1$s reassigned user %2$s to task %3$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1001
+#, php-format
+msgid "%1$s unassigned user %2$s from task \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1008
+#, php-format
+msgid "%1$s appended user %2$s to team %3$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1011
+#, php-format
+msgid "%1$s removed user %2$s from team %3$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1018
+#, php-format
+msgid "%1$s created a user %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1021
+#, php-format
+msgid "%1$s edited a user %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1024
+#, php-format
+msgid "%1$s removed a user %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1035
+#, php-format
+msgid "%1$s assigned team %2$s to project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1038
+#, php-format
+msgid "%1$s unassigned team %2$s from project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1045
+#, php-format
+msgid "%1$s created team %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1048
+#, php-format
+msgid "%1$s edited team %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1051
+#, php-format
+msgid "%1$s removed team %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1062
+#, php-format
+msgid "%1$s added file %2$s to project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1065
+#, php-format
+msgid "%1$s removed file %2$s from project \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1072
+#, php-format
+msgid "%1$s added file %2$s to task \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1075
+#, php-format
+msgid "%1$s removed file %2$s from task \"%3$s\""
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1082
+#, php-format
+msgid "%1$s created file %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1085
+#, php-format
+msgid "%1$s removed file %2$s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1647
+msgid "PM: Welcome Email"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1648
+msgid "Project Management: Welcome Email"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1649
+msgid "  >> This template for welcome new user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1655
+msgid "PM: Task assigned to Teammate/Freelancer"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1656
+#, php-format
+msgid "Project Management: Task assigned to %s/%s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1657
+msgid "  >> This template for notifying when Task assigned to Teammate/Freelancer"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1663
+msgid "PM: File is added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1664
+msgid "Project Management: File is added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1665
+msgid "  >> This template for notifying when File was added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1671
+#, php-format
+msgid "PM: File is added to assigned %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1672
+#, php-format
+msgid "Project Management: File is added to assigned %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1673
+#, php-format
+msgid "  >> This template for notifying when File was added to assigned %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1679
+msgid "PM: Message posted in Team Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1680
+msgid "Project Management: Message posted in Team Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1681
+msgid "  >> This template for notifying when message posted in Team Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1687
+msgid "PM: Message posted in Client Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1688
+msgid "Project Management: Message posted in Client Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1689
+msgid "  >> This template for notifying Client when message posted in Client Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1695
+msgid "PM: Message added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1696
+msgid "Project Management: Message added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1697
+msgid "  >> This template for notifying when message added to assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1703
+msgid "PM: Task priority modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1704
+msgid "Project Management: Task priority modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1705
+msgid "  >> This template for notifying when Task priority modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1711
+msgid "PM: Task due date modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1712
+msgid "Project Management: Task due date modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1713
+msgid "  >> This template for notifying when Task due date modified on assigned Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1719
+#, php-format
+msgid "PM: New %s is assigned"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1720
+#, php-format
+msgid "Project Management: New %s is assigned"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1721
+#, php-format
+msgid "  >> This template for notifying when new %s was assigned"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1727
+msgid "PM: New Work Request was created"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1728
+msgid "Project Management: New Work Request was created"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1729
+msgid "  >> This template for notifying when Work Request was created"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1735
+msgid "PM: New file is uploaded in permissioned projects/tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1736
+msgid "Project Management: New file is uploaded in permissioned projects/tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1737
+msgid "  >> This template for notifying when new file is uploaded in permissioned projects/tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1743
+msgid "PM: Client posts message in Client Talk permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1744
+msgid "Project Management: Client posts message in Client Talk permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1745
+msgid "  >> This template for notifying when client posts message in Client Talk permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1751
+msgid "PM: User posts message in Team Talk  permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1752
+msgid "Project Management: User posts message in Team Talk  permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1753
+msgid "  >> This template for notifying when user posts message in Team Talk  permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1759
+msgid "PM: Teammate/Freelancer is assigned to permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1760
+msgid "Project Management: Teammate/Freelancer is assigned to permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1761
+msgid "  >> This template for notifying when Teammate/Freelancer is assigned to permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1767
+msgid "PM: Task status is updated"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1768
+msgid "Project Management: Task status is updated"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1769
+msgid "  >> This template for notifying when Task status is updated"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1775
+msgid "PM: User adds message to any task in permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1776
+msgid "Project Management: User adds message to any task in permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1777
+msgid "  >> This template for notifying when any other user adds message to any task in permissioned projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1783
+msgid "PM: Daily Digest"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1784
+msgid "Project Management: Daily Digest"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1785
+msgid "  >> This template for notifying one time per day with all yesterday news."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1791
+msgid "PM: Weekly Digest"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1792
+msgid "Project Management: Weekly Digest"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1793
+msgid "  >> This template for notifying one time per week all last week news."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1799
+msgid "PM: Outlook"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1800
+msgid "Project Management: Outlook"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1801
+msgid "  >> This template for notifying close due dates"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1835
+#: e:\wp-client-project-management/includes/pm_class.common.php:1926
+msgid "not established"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1854
+#: e:\wp-client-project-management/includes/pm_class.common.php:1856
+#: e:\wp-client-project-management/includes/admin/add_project.php:54
+msgid "None"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1858
+msgid "Non-logged user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:1985
+#: e:\wp-client-project-management/includes/pm_class.common.php:2146
+#, php-format
+msgid "Assigned %s:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2005
+#: e:\wp-client-project-management/includes/pm_class.common.php:2166
+msgid "Completed Tasks:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2008
+#: e:\wp-client-project-management/includes/pm_class.common.php:2030
+#: e:\wp-client-project-management/includes/pm_class.common.php:2072
+#: e:\wp-client-project-management/includes/pm_class.common.php:2169
+#: e:\wp-client-project-management/includes/pm_class.common.php:2191
+#: e:\wp-client-project-management/includes/pm_class.common.php:2233
+msgid "Unknown"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2027
+#: e:\wp-client-project-management/includes/pm_class.common.php:2188
+msgid "Assigned Tasks:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2053
+#: e:\wp-client-project-management/includes/pm_class.common.php:2214
+msgid "Uploaded Files:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2069
+#: e:\wp-client-project-management/includes/pm_class.common.php:2230
+msgid "Task Messages:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2087
+#: e:\wp-client-project-management/includes/pm_class.common.php:2248
+msgid "Team Talk Activity:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2102
+#: e:\wp-client-project-management/includes/pm_class.common.php:2263
+msgid "Client Talk Activity:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2288
+msgid "days"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2299
+#: e:\wp-client-project-management/includes/pm_class.common.php:2304
+msgid "Upcoming Tasks Due:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2304
+msgid "You have no upcoming Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2316
+#: e:\wp-client-project-management/includes/pm_class.common.php:2321
+#, php-format
+msgid "Upcoming %s Due:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2321
+#, php-format
+msgid "You have no upcoming %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.common.php:2563
+msgid " <font color=\"red\" title=\"This field is marked as required by the administrator.\">*</font>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.install.php:171
+#, php-format
+msgid "%s Details"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.install.php:172
+#, php-format
+msgid "%s Details Page"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.install.php:173
+msgid "Page content: [wpc_client_pm_project_details]"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/pm_class.user.php:257
+msgid "You don't have permission to this project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:30
+#: e:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:29
+#: e:\wp-client-project-management/includes/wpc_pm_sectors_list_table.class.php:29
+#: e:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:28
+msgid " not found."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:164
+msgid "view"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:170
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:260
+msgid "Delete"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:24
+msgid "requests"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:46
+#, php-format
+msgid "%s Name (required)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:77
+#: e:\wp-client-project-management/includes/admin/add_project.php:78
+msgid "Select Client"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:95
+msgid "Projected Completion Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:103
+msgid "Assigned to the project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:217
+msgid "Estimated Value of Project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:221
+msgid "Currency"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:243
+msgid "Additional Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:247
+msgid "Duplicate Milestones"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:252
+msgid "Duplicate Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:261
+#, php-format
+msgid "Create %s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_project.php:280
+#: e:\wp-client-project-management/includes/admin/add_project.php:281
+msgid "Activities"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:54
+#: e:\wp-client-project-management/includes/admin/add_user.php:66
+#: e:\wp-client-project-management/includes/admin/add_user.php:78
+msgid "(required)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:86
+msgid "First Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:94
+msgid "Last Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:102
+msgid "Display Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:110
+msgid "Avatar"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:118
+msgid "Password"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:118
+msgid "(twice, required)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:122
+msgid "Generate Password"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:130
+msgid "Strength indicator"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/add_user.php:131
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ & )."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:28
+msgid "Filter by status:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:30
+msgid "All"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:31
+msgid "New"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:32
+msgid "Open"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:34
+msgid "Testing"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:105
+#: e:\wp-client-project-management/includes/admin/calendar.php:117
+msgid "Task #"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:107
+msgid "Project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:108
+msgid "Pririty"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:109
+msgid "Status"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/calendar.php:110
+msgid "Due Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:37
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:250
+msgid "Fields"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:86
+msgid "not found."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:174
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:310
+msgid "Text Box"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:177
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:311
+msgid "Datepicker"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:179
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:312
+msgid "Cost"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:182
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:313
+msgid "Multi-line Text Box"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:185
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:314
+msgid "Radio Buttons"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:188
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:315
+msgid "Checkboxes"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:191
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:316
+msgid "Select Box"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:194
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:317
+msgid "Multi Select Box"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:197
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:318
+msgid "Hidden Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:217
+msgid "Required"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:226
+msgid "Edit"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:227
+msgid "Are you sure you want to delete this Custom Filed?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:227
+msgid "Delete Permanently"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:249
+msgid "Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:264
+msgid "Order"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:265
+msgid "Field Slug (ID)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:269
+msgid "Options"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:293
+msgid "Custom Field <strong>Added</strong> Successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:296
+msgid "Custom Field <strong>Updated</strong> Successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:299
+msgid "Custom Field <strong>Deleted</strong> Successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:313
+msgid "Add New Custom Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_fields.php:323
+msgid "Drag&Drop to change the order in which these fields appear on the project edit form."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:24
+msgid "A Custom Field Name is required.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:30
+#, php-format
+msgid "A Custom Field with this name \"%s\" already exist already.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:36
+msgid "A Custom Field Type is required.<br/>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:78
+msgid "Add Custom Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:80
+msgid "Update Custom Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:143
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:334
+msgid "Add Multiple Options"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:203
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:362
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:372
+msgid "Option"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:206
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:365
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:375
+msgid "Default Value"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:258
+msgid "Field Slug"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:258
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:306
+msgid "required"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:264
+msgid "Can't be changed."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:268
+msgid "The name used to identify the custom field. Should consist only of these characters \"a-z\" and the underscore symbol \"_\" <br> - (not displayed on the form)."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:274
+msgid "Field Title"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:279
+msgid "The title of the custom field (displayed on the form)."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:284
+msgid "Field Description"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:289
+msgid "Description for the custom field (displayed on the form)."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:294
+#, php-format
+msgid "%s assigned to project can see field?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:306
+msgid "Field Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:321
+msgid "Select type of the custom field."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:324
+msgid "Fill in the options for this field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:325
+msgid "Order By"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:327
+msgid "Order Entered"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:328
+msgid "Name - Ascending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:329
+msgid "Name - Descending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:342
+msgid "Options:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:348
+msgid "Each option in new line"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:353
+msgid "Add options"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:389
+msgid "Add another option"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:395
+msgid "Fill in the value for this field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:405
+msgid "Required Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:414
+#, php-format
+msgid "Client can see field in %s shortcode"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/custom_field_edit.php:423
+msgid "Save Custom Field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:31
+msgid "File added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:34
+msgid "File updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:37
+msgid "File deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:40
+msgid "Wrong File ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:57
+msgid "Add File"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:68
+#: e:\wp-client-project-management/includes/admin/messages.php:62
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1572
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1594
+#: e:\wp-client-project-management/includes/admin/to_do.php:1473
+#: e:\wp-client-project-management/includes/admin/to_do.php:1494
+msgid "Your browser doesn't have Flash, Silverlight or HTML5 support."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:93
+#: e:\wp-client-project-management/includes/admin/files.php:95
+msgid "Upload"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/files.php:102
+msgid "Filter by Author"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:21
+msgid "New Work Request Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:84
+msgid "Wrong value in price field"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:175
+#: e:\wp-client-project-management/includes/admin/user_settings.php:59
+msgid "Settings updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:188
+msgid "General Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:190
+msgid "Use this section to setup general Project Management settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:195
+msgid "Use uploader:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:199
+msgid "Regular"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:207
+msgid "Auto hide tasks after"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:211
+msgid "days they were completed/closed."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:217
+msgid "Email Notification Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:219
+msgid "Use this section to select notification settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:225
+#: e:\wp-client-project-management/includes/admin/global_settings.php:239
+#: e:\wp-client-project-management/includes/admin/global_settings.php:253
+#: e:\wp-client-project-management/includes/admin/global_settings.php:267
+#: e:\wp-client-project-management/includes/admin/global_settings.php:281
+#: e:\wp-client-project-management/includes/admin/global_settings.php:295
+#: e:\wp-client-project-management/includes/admin/global_settings.php:309
+#: e:\wp-client-project-management/includes/admin/global_settings.php:323
+#: e:\wp-client-project-management/includes/admin/global_settings.php:337
+msgid "Hide"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:226
+#: e:\wp-client-project-management/includes/admin/global_settings.php:240
+#: e:\wp-client-project-management/includes/admin/global_settings.php:254
+#: e:\wp-client-project-management/includes/admin/global_settings.php:268
+#: e:\wp-client-project-management/includes/admin/global_settings.php:282
+#: e:\wp-client-project-management/includes/admin/global_settings.php:296
+#: e:\wp-client-project-management/includes/admin/global_settings.php:310
+#: e:\wp-client-project-management/includes/admin/global_settings.php:324
+#: e:\wp-client-project-management/includes/admin/global_settings.php:338
+#: e:\wp-client-project-management/includes/admin/projects.php:452
+msgid "Show"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:233
+msgid "Task is assigned to Teammate/Freelancer"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:247
+#, php-format
+msgid "%s is assigned to %s/%s"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:261
+msgid "Message added to assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:275
+msgid "File is added to assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:289
+msgid "Message posted in Team Talk (not sent to Freelancers)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:303
+msgid "Message posted in Client Talk (not sent to Freelancers)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:317
+msgid "File is added to assigned Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:331
+msgid "Task priority is modified on assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:345
+msgid "Task due date is modified on assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:353
+msgid "Work Request Type Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:355
+msgid "Use this section to setup Work Request Types for Project Management extension"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:358
+msgid "Add Type"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:394
+#: e:\wp-client-project-management/includes/admin/user_settings.php:362
+msgid "Update Settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/global_settings.php:427
+msgid "Save"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/messages.php:21
+msgid "Message sent successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/messages.php:51
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1563
+#: e:\wp-client-project-management/includes/admin/to_do.php:1464
+msgid "Add Attachment(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/messages.php:79
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1576
+#: e:\wp-client-project-management/includes/admin/to_do.php:1477
+msgid "Send"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/messages.php:94
+msgid "Deleted user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:62
+msgid "New Milestone"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:69
+msgid "Milestone title is empty. Please add it."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:91
+#: e:\wp-client-project-management/includes/admin/milestones.php:179
+#: e:\wp-client-project-management/includes/admin/milestones.php:358
+#: e:\wp-client-project-management/includes/admin/milestones.php:393
+#: e:\wp-client-project-management/includes/admin/milestones.php:498
+msgid "Edit task list"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:93
+#: e:\wp-client-project-management/includes/admin/milestones.php:101
+#: e:\wp-client-project-management/includes/admin/milestones.php:169
+#: e:\wp-client-project-management/includes/admin/milestones.php:377
+#: e:\wp-client-project-management/includes/admin/milestones.php:378
+msgid "No Tasks Yet"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:321
+msgid "Save Selected Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:366
+#: e:\wp-client-project-management/includes/admin/milestones.php:408
+#: e:\wp-client-project-management/includes/admin/projects.php:346
+#: e:\wp-client-project-management/includes/user/projects.php:669
+msgid "of"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:411
+#: e:\wp-client-project-management/includes/admin/projects.php:349
+#: e:\wp-client-project-management/includes/user/projects.php:672
+msgid "No Tasks Yet - Create one"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:445
+#: e:\wp-client-project-management/includes/admin/projects.php:387
+#: e:\wp-client-project-management/includes/admin/project_details.php:18
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1262
+#: e:\wp-client-project-management/includes/admin/to_do.php:1244
+msgid "Project added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:448
+#: e:\wp-client-project-management/includes/admin/projects.php:390
+#: e:\wp-client-project-management/includes/admin/project_dashboard.php:26
+#: e:\wp-client-project-management/includes/admin/project_details.php:21
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1265
+#: e:\wp-client-project-management/includes/admin/to_do.php:1247
+msgid "Project updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:451
+#: e:\wp-client-project-management/includes/admin/projects.php:393
+#: e:\wp-client-project-management/includes/admin/project_details.php:24
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1268
+#: e:\wp-client-project-management/includes/admin/to_do.php:1250
+msgid "Project deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:465
+msgid "Add Milestone"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:492
+msgid "Due date:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:500
+msgid "ID"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/milestones.php:538
+msgid "Add milestone"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:27
+msgid "Project list already sorted"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:84
+#: e:\wp-client-project-management/includes/admin/projects.php:456
+msgid "Previous Day"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:85
+#: e:\wp-client-project-management/includes/admin/projects.php:455
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1742
+#: e:\wp-client-project-management/includes/admin/to_do.php:1569
+msgid "Today"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:86
+#: e:\wp-client-project-management/includes/admin/projects.php:457
+msgid "Next Day"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:88
+msgid "Previous Week"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:89
+msgid "Current Week"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:90
+msgid "Next Week"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:92
+msgid "Previous Month"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:93
+msgid "Current Month"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:94
+msgid "Next Month"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:96
+msgid "Previous Quarter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:97
+msgid "Current Quarter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:98
+msgid "Next Quarter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:100
+msgid "Previous Year"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:101
+msgid "Current Year"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:102
+msgid "Next Year"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:399
+msgid "Wrong file ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:402
+msgid "Project archived successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:405
+msgid "Project restored successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:421
+msgid "User"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:423
+#, php-format
+msgid "%s or Admin"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:441
+msgid "Day"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:442
+msgid "Week"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:443
+msgid "Month"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:444
+msgid "Quarter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:445
+msgid "Year"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:446
+msgid "Custom Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:450
+msgid "to"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:462
+msgid "Default"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:463
+msgid "Creation Date in ascending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:464
+msgid "Creation Date in descending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:465
+msgid "Title in ascending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:466
+msgid "Title in descending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:467
+msgid "Projected Completion Date in ascending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:468
+msgid "Projected Completion Date in descending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:469
+msgid "Percent of Completion in ascending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:470
+msgid "Percent of Completion in descending"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/projects.php:496
+msgid "Projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_dashboard.php:29
+msgid "Project created successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_dashboard.php:48
+msgid "Add Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_dashboard.php:176
+msgid "Recently Added Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:53
+#: e:\wp-client-project-management/includes/admin/to_do.php:62
+#: e:\wp-client-project-management/includes/admin/to_do.php:149
+msgid "Please enter tags"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:60
+#: e:\wp-client-project-management/includes/admin/to_do.php:69
+#: e:\wp-client-project-management/includes/admin/to_do.php:158
+msgid "Add new tag:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:241
+#: e:\wp-client-project-management/includes/admin/to_do.php:213
+msgid "Add new task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:253
+#: e:\wp-client-project-management/includes/admin/to_do.php:225
+msgid "Add new Subtask to"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:463
+#: e:\wp-client-project-management/includes/admin/to_do.php:445
+msgid "Task title is empty. Please add it."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:608
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1486
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1651
+msgid "Milestone"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:966
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1212
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1333
+#: e:\wp-client-project-management/includes/admin/to_do.php:934
+#: e:\wp-client-project-management/includes/admin/to_do.php:1194
+#: e:\wp-client-project-management/includes/admin/to_do.php:1302
+msgid "From Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:970
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1216
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1329
+#: e:\wp-client-project-management/includes/admin/to_do.php:938
+#: e:\wp-client-project-management/includes/admin/to_do.php:1198
+#: e:\wp-client-project-management/includes/admin/to_do.php:1298
+msgid "To Date"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1000
+#: e:\wp-client-project-management/includes/admin/to_do.php:983
+msgid "By user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1020
+#: e:\wp-client-project-management/includes/admin/to_do.php:1003
+msgid "By priority"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1040
+#: e:\wp-client-project-management/includes/admin/to_do.php:1023
+msgid "By status"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1060
+#: e:\wp-client-project-management/includes/admin/to_do.php:1043
+msgid "By tags"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1152
+#: e:\wp-client-project-management/includes/admin/to_do.php:1135
+msgid "Show All Completed/Closed tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1158
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1436
+#: e:\wp-client-project-management/includes/admin/to_do.php:1141
+#: e:\wp-client-project-management/includes/admin/to_do.php:1385
+msgid "Hide All Completed/Closed tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1297
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1508
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1670
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1756
+#: e:\wp-client-project-management/includes/admin/to_do.php:1267
+#: e:\wp-client-project-management/includes/admin/to_do.php:1412
+#: e:\wp-client-project-management/includes/admin/to_do.php:1515
+#: e:\wp-client-project-management/includes/admin/to_do.php:1583
+msgid "Low"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1298
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1509
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1671
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1757
+#: e:\wp-client-project-management/includes/admin/to_do.php:1268
+#: e:\wp-client-project-management/includes/admin/to_do.php:1413
+#: e:\wp-client-project-management/includes/admin/to_do.php:1516
+#: e:\wp-client-project-management/includes/admin/to_do.php:1584
+msgid "Normal"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1299
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1510
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1672
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1758
+#: e:\wp-client-project-management/includes/admin/to_do.php:1269
+#: e:\wp-client-project-management/includes/admin/to_do.php:1414
+#: e:\wp-client-project-management/includes/admin/to_do.php:1517
+#: e:\wp-client-project-management/includes/admin/to_do.php:1585
+msgid "High"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1300
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1511
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1673
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1759
+#: e:\wp-client-project-management/includes/admin/to_do.php:1270
+#: e:\wp-client-project-management/includes/admin/to_do.php:1415
+#: e:\wp-client-project-management/includes/admin/to_do.php:1518
+#: e:\wp-client-project-management/includes/admin/to_do.php:1586
+msgid "Urgent"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1308
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1525
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1687
+#: e:\wp-client-project-management/includes/admin/to_do.php:1278
+#: e:\wp-client-project-management/includes/admin/to_do.php:1428
+#: e:\wp-client-project-management/includes/admin/to_do.php:1531
+msgid "Closed"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1318
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1726
+msgid "Assigned user"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1320
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1753
+#: e:\wp-client-project-management/includes/admin/to_do.php:1289
+#: e:\wp-client-project-management/includes/admin/to_do.php:1580
+msgid "Priority"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1324
+#: e:\wp-client-project-management/includes/admin/to_do.php:1293
+msgid "ASC"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1325
+#: e:\wp-client-project-management/includes/admin/to_do.php:1294
+msgid "DESC"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1441
+#: e:\wp-client-project-management/includes/admin/to_do.php:1390
+#, php-format
+msgid "only last %s days"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1534
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1696
+#: e:\wp-client-project-management/includes/admin/to_do.php:1436
+#: e:\wp-client-project-management/includes/admin/to_do.php:1539
+msgid "Delete Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1535
+#: e:\wp-client-project-management/includes/admin/to_do.php:1437
+msgid "Add Subtask"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1545
+#: e:\wp-client-project-management/includes/admin/to_do.php:1446
+msgid "Tags"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1551
+#: e:\wp-client-project-management/includes/admin/to_do.php:1452
+msgid "Activity"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1552
+#: e:\wp-client-project-management/includes/admin/to_do.php:1453
+msgid "Messages"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1591
+#: e:\wp-client-project-management/includes/admin/to_do.php:1491
+msgid "Attach File(s) to Task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1609
+msgid "Followers"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1743
+#: e:\wp-client-project-management/includes/admin/to_do.php:1570
+msgid "Tomorrow"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1744
+#: e:\wp-client-project-management/includes/admin/to_do.php:1571
+msgid "5 Days"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1745
+#: e:\wp-client-project-management/includes/admin/to_do.php:1572
+msgid "1 Month"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1764
+#: e:\wp-client-project-management/includes/admin/to_do.php:1591
+msgid "Add task"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/project_tasks.php:1765
+#: e:\wp-client-project-management/includes/admin/to_do.php:1592
+msgid "Add task &amp; Create another"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:39
+#, php-format
+msgid "%s added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:42
+#, php-format
+msgid "%s updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:45
+#, php-format
+msgid "%s deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:48
+#: e:\wp-client-project-management/includes/admin/sectors.php:62
+#, php-format
+msgid "Wrong %s ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:65
+msgid "Business Sector Name is empty."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:68
+msgid "Business Sector Name already exists."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:83
+msgid "Here you can identify different sectors in your organization, and then you'll be able to associate projects with certain sectors. Reports can be generated to show you which business sectors are generating the most load on your Team"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:93
+msgid "Business Sector Description"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/sectors.php:98
+#: e:\wp-client-project-management/includes/admin/teams.php:95
+msgid "Submit"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:38
+msgid "Team added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:41
+msgid "Team updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:44
+msgid "Team deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:65
+msgid "Add New Team"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:67
+msgid ""
+"Click 'Add New Team' button above to create a new team and assign members.<br />\n"
+"                To add/remove members from an existing Team, simply click on the Team below and use the pane on the right to select/deselect members"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:73
+msgid "Are you sure you want to delete this team?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:84
+msgid "Team Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/teams.php:90
+msgid "Team Description"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/to_do.php:165
+msgid "Select followers"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/users.php:20
+msgid "User added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/users.php:26
+msgid "User updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/users.php:29
+msgid "User deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/users.php:32
+msgid "Users deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:71
+msgid "Use this section to select personal notification settings"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:73
+msgid "Send me an email when:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:81
+msgid "A file is uploaded in my Task(s)/Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:89
+msgid "I am assigned to a new Project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:97
+msgid "A Task status is updated in my Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:105
+msgid "Client posts message in Client Talk in my Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:114
+msgid "A message is posted in Team Talk in my Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:123
+msgid "A user adds message to a Task in my Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:131
+msgid "A new Teammate/Freelancer is assigned to my Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:143
+msgid "A Task is assigned to me"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:153
+msgid "I am assigned to a Project"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:163
+msgid "A message is posted on my assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:173
+msgid "A file is uploaded to my assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:183
+msgid "A message is posted in Team Talk"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:193
+msgid "A file is uploaded to my assigned Project(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:203
+msgid "The priority is modified on my assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:213
+msgid "The due date is modified on my assigned Task(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:221
+msgid "Receive email Digests?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:227
+msgid "Daily"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:231
+msgid "Include in Digest:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:239
+#: e:\wp-client-project-management/includes/admin/user_settings.php:298
+msgid "Assigned Projects"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:247
+msgid "Tasks completed"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:255
+#: e:\wp-client-project-management/includes/admin/user_settings.php:306
+msgid "Uploaded Files"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:263
+#: e:\wp-client-project-management/includes/admin/user_settings.php:314
+msgid "Messages in assigned Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:271
+#: e:\wp-client-project-management/includes/admin/user_settings.php:323
+msgid "Team Talk posts"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:279
+msgid "Client Talk posts"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:290
+msgid "Assigned Tasks"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:331
+msgid "Receive email Outlooks?"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:337
+msgid "Start report"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:338
+msgid "day(s) before the end"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:341
+msgid "Include in Outlook:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:348
+msgid "Upcoming Task due dates"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/user_settings.php:356
+msgid "Upcoming Project due dates"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request.php:76
+msgid "Work request added successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request.php:79
+msgid "Work request updated successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request.php:82
+msgid "Work request deleted successfully."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request.php:85
+msgid "Wrong Work request ID."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request_view.php:85
+msgid "Work Request Info:"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request_view.php:88
+msgid "From Client"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request_view.php:105
+msgid "Attachment(s)"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/admin/work_request_view.php:127
+msgid "Accept"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/projects.php:699
+#: e:\wp-client-project-management/includes/user/projects.php:771
+msgid "Progress"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/projects.php:706
+msgid "Add Filter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/projects.php:710
+msgid "Filter By"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/projects.php:723
+msgid "Apply Filter"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/projects.php:765
+msgid "Project Name"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/project_details.php:49
+msgid "Removed User"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/project_details.php:98
+msgid "New Message"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/project_details.php:100
+msgid "Attachment Files"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:10
+msgid "Work request successfully sent."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:13
+msgid "Work request title is required."
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:29
+msgid " <span style=\"color:red;\" title=\"This field is marked as required by the administrator.\">*</span>"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:35
+msgid "Ticket Title is required"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:59
+#: e:\wp-client-project-management/includes/user/work_request.php:60
+msgid "Attachments"
+msgstr ""
+
+#: e:\wp-client-project-management/includes/user/work_request.php:204
+msgid "You need to fill"
+msgstr ""
+

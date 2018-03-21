@@ -1,0 +1,36 @@
+=== WP-Client-Feedback-Wizard ===
+Authors: WP-Client.com
+Plugin Page: http://www.WP-Client.com    
+
+ 
+== Changelog ==
+
+= 1.3.6 =
+- Some Fixes;
+
+= 1.3.5 =
+!!!!!!!!! Important: Required version 4.0.0 of Core plugin.
+- Changed front end forms;
+
+= 1.3.4 =
+- Fixed CSS Style;
+
+
+= 1.3.3 =
+!!!!!!!!! Important: Required version 3.9.1 of Core plugin.
+- Changed assign popup;
+
+= 1.3.2 =
+- Rewrote logic of install plugin pages;
+- Some fixes;
+
+= 1.3.1 =
+- Some fixes;
+
+= 1.3.0 =
+- Added feature for save selected values for display and order filters in assign popup;
+
+
+= 1.2.9 =
+!!!!!!!!! Important: Required version 3.8.5 of Core plugin.
+- new shortcodes system;

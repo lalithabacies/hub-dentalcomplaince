@@ -1,0 +1,577 @@
+input[type="button"].wpc_button {
+    background: #0092d5;
+    border: 2px solid;
+    border-left-color: #0092d5;
+    border-top-color: #0092d5;
+    border-right-color: #0071a5;
+    border-bottom-color: #0071a5;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 1;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius:0px;
+    outline: none !important;
+    cursor: pointer !important;
+}
+
+input[type="button"].wpc_button:hover {
+    background: #0092d5;
+    border: 2px solid;
+    border-left-color: #0092d5;
+    border-top-color: #0092d5;
+    border-right-color: #0071a5;
+    border-bottom-color: #0071a5;
+    color: #fff;
+    box-shadow: none;
+    outline: none !important;
+}
+
+input[type="button"].wpc_button:focus,
+input[type="button"].wpc_button:active {
+    background: #0092d5;
+    border: 2px solid;
+    border-left-color: #0071a5;
+    border-top-color: #0071a5;
+    border-right-color: #0092d5;
+    border-bottom-color: #0092d5;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 0;
+    box-shadow: none;
+    outline: none !important;
+}
+
+input[type="button"].wpc_button:disabled {
+    cursor:default;
+    opacity:0.6;
+}
+
+input[type="text"].wpc_text {
+    color: #000;
+    padding: 4px 0px 4px 5px;
+    margin: 0;
+    font-size: 12px;
+    border: 1px solid #000;
+    background: #fff;
+    outline: none !important;
+    line-height: 1;
+    box-shadow: none;
+    border-radius:0px;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+
+input[type="text"].wpc_text:focus {
+    color: #000;
+    padding: 4px 0px 4px 5px;
+    margin: 0;
+    font-size: 12px;
+    border: 1px solid #0092d5 !important;
+    background: #fff;
+    outline: none !important;
+    line-height: 1;
+}
+
+select.wpc_selectbox {
+    color: #000;
+    margin: 0;
+    font-size: 12px;
+    width: auto;
+    outline: none !important;
+    line-height: 1;
+    box-shadow: none;
+    border-radius:0px;
+    border: 1px solid #000;
+    transition: all 0.3s;
+    padding: 3px 0px 3px 2px;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+
+select.wpc_selectbox:active,
+select.wpc_selectbox:focus {
+    color: #000;
+    margin: 0;
+    font-size: 12px;
+    outline: none !important;
+    line-height: 1;
+    box-shadow: none;
+    border-radius:0px;
+    border: 1px solid #0092d5;
+}
+
+textarea.wpc_textarea {
+    color: #000;
+    padding: 4px 0px 4px 5px;
+    margin: 0;
+    font-size: 12px;
+    border: 1px solid #000;
+    background: #fff;
+    outline: none !important;
+    line-height: 1;
+    box-shadow: none;
+    border-radius:0px;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+
+textarea.wpc_textarea:focus {
+    color: #000;
+    padding: 4px 0px 4px 5px;
+    margin: 0;
+    font-size: 12px;
+    border: 1px solid #0092d5 !important;
+    background: #fff;
+    outline: none !important;
+    line-height: 1;
+}
+
+.wpc_notice {
+    float:left;
+    width:100%;
+    padding: 5px 12px;
+    margin: 7px 0 14px 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font: 12px sans-serif;
+    line-height: 1.4em;
+    color: #000000;
+    background-color: #fff !important;
+    border: none;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.wpc_notice.wpc_error {
+    border-left: 5px solid red !important;
+}
+
+.wpc_notice.wpc_warning {
+    border-left: 5px solid orange !important;
+}
+
+.wpc_notice.wpc_apply {
+    border-left: 5px solid green !important;
+}
+
+.wpc_notice.wpc_info {
+    border-left: 5px solid #0092d5 !important;
+}
+
+
+.wpc_form {
+    width:100%;
+    float:left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpc_form .wpc_form_line {
+    width:100%;
+    float:left;
+    margin: 0 0 20px 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpc_form .wpc_form_label {
+    width:35%;
+    float:left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpc_form .wpc_form_label label {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    color: inherit;
+    border: none;
+}
+
+.wpc_form .wpc_form_field {
+    width:65%;
+    float:left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpc_form .wpc_form_field .wpc_field_validation {
+    float:left;
+    width:100%;
+    height: 0;
+    visibility: hidden;
+    margin: 3px 0 7px 0;
+    padding: 0;
+    color: #f04040;
+    font-size: 85%;
+    font-style: italic;
+    -webkit-transition: height 0.2s ease-out;
+    -moz-transition: height 0.2s ease-out;
+    -o-transition: height 0.2s ease-out;
+    transition: height 0.2s ease-out;
+}
+
+.wpc_form .wpc_form_field .wpc_field_validation > * {
+    display: none;
+}
+
+.wpc_form .wpc_form_field.wpc_validate_error .wpc_field_validation {
+    height: 30px;
+    visibility: visible;
+    -webkit-transition: height 0.2s ease-in;
+    -moz-transition: height 0.2s ease-in;
+    -o-transition: height 0.2s ease-in;
+    transition: height 0.2s ease-in;
+}
+
+.wpc_form .wpc_form_field .wpc_description {
+    width:100%;
+    float:left;
+    display: block;
+    margin: 7px 0 0 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+    font-style: italic;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.wpc_form .wpc_form_field .opt {
+    float:left;
+    width:100%;
+    display: block;
+    padding: 0;
+    margin: 0 0 5px 0;
+}
+
+.wpc_form input[type=text],
+.wpc_form input[type=email],
+.wpc_form input[type=password],
+.wpc_form input[type=number],
+.wpc_form input[type=file],
+.wpc_form select,
+.wpc_form textarea {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 0;
+    color: #444444;
+    font-size: 13px;
+    max-width: 100%;
+    padding: 7px;
+    width: 100%;
+    outline: none;
+}
+
+.wpc_form textarea {
+    resize: vertical;
+}
+
+
+.wpc_form .wpc_form_field.wpc_validate_error input[type=text],
+.wpc_form .wpc_form_field.wpc_validate_error input[type=email],
+.wpc_form .wpc_form_field.wpc_validate_error input[type=password],
+.wpc_form .wpc_form_field.wpc_validate_error input[type=file],
+.wpc_form .wpc_form_field.wpc_validate_error input[type=number],
+.wpc_form .wpc_form_field.wpc_validate_error select,
+.wpc_form .wpc_form_field.wpc_validate_error textarea {
+    border: 1px solid #f04040;
+}
+
+
+.wpc_form input[type=text]:active,
+.wpc_form input[type=text]:focus,
+.wpc_form input[type=email]:active,
+.wpc_form input[type=email]:focus,
+.wpc_form input[type=password]:active,
+.wpc_form input[type=password]:focus,
+.wpc_form input[type=number]:active,
+.wpc_form input[type=number]:focus,
+.wpc_form select:active,
+.wpc_form select:focus,
+.wpc_form textarea:active,
+.wpc_form textarea:focus {
+    border: 1px solid #bbbbbb;
+}
+
+.wpc_form .wpc_form_field.wpc_validate_error input[type=text]:active,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=text]:focus,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=email]:active,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=email]:focus,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=password]:active,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=password]:focus,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=file]:active,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=file]:focus,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=number]:active,
+.wpc_form .wpc_form_field.wpc_validate_error input[type=number]:focus,
+.wpc_form .wpc_form_field.wpc_validate_error select:active,
+.wpc_form .wpc_form_field.wpc_validate_error select:focus,
+.wpc_form .wpc_form_field.wpc_validate_error textarea :active,
+.wpc_form .wpc_form_field.wpc_validate_error textarea :focus {
+    border: 1px solid #f04040;
+}
+
+.wpc_form input[type="checkbox"],
+.wpc_form input[type="radio"] {
+    vertical-align:middle;
+    margin:5px;
+}
+
+.wpc_form input[type=text]:disabled,
+.wpc_form input[type=email]:disabled,
+.wpc_form input[type=password]:disabled,
+.wpc_form input[type=file]:disabled,
+.wpc_form input[type=number]:disabled,
+.wpc_form select:disabled,
+.wpc_form textarea:disabled {
+    background-color: #eeeeee;
+    opacity: 0.5;
+}
+
+.wpc_form #pass-strength-result {
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    margin: 10px 0 0 0;
+    padding: 3px 5px;
+    text-align: center;
+    background-color: #eee;
+    border-color: #ddd!important;
+    display: block;
+    float: left;
+}
+
+.wpc_form #pass-strength-result.bad {
+    background-color: #ffb78c;
+    border-color: #ff853c!important;
+}
+
+.wpc_form #pass-strength-result.strong {
+    background-color: #c3ff88;
+    border-color: #8dff1c!important;
+    font-weight: bold;
+}
+
+.wpc_form #pass-strength-result.good {
+    background-color: #ffec8b;
+    border-color: #fc0!important;
+}
+
+.wpc_form #pass-strength-result.short {
+    background-color: #ffa0a0;
+    border-color: #f04040!important;
+    font-weight: bold;
+}
+
+.wpc_form .indicator-hint {
+    display:block;
+    font-size:12px;
+    font-weight:normal;
+    font-style:italic;
+    margin: 10px 0 0 0;
+    width: 100%;
+}
+
+.wpc_form button.wpc_submit,
+.wpc_form input[type="button"].wpc_submit,
+.wpc_form input[type="submit"].wpc_submit {
+    background: #0092d5;
+    border: 2px solid;
+    border-left-color: #0092d5;
+    border-top-color: #0092d5;
+    border-right-color: #0071a5;
+    border-bottom-color: #0071a5;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius:0;
+    outline: none !important;
+    cursor: pointer !important;
+}
+
+.wpc_form button.wpc_submit:hover,
+.wpc_form input[type="button"].wpc_submit:hover,
+.wpc_form input[type="submit"].wpc_submit:hover {
+    background: #0097dc;
+    border: 2px solid;
+    border-left-color: #0092d5;
+    border-top-color: #0092d5;
+    border-right-color: #0071a5;
+    border-bottom-color: #0071a5;
+    color: #fff;
+    box-shadow: none;
+    outline: none !important;
+}
+
+.wpc_form button.wpc_submit:focus,
+.wpc_form button.wpc_submit:active,
+.wpc_form input[type="button"].wpc_submit:focus,
+.wpc_form input[type="button"].wpc_submit:active,
+.wpc_form input[type="submit"].wpc_submit:focus,
+.wpc_form input[type="submit"].wpc_submit:active {
+    background: #0092d5;
+    border: 2px solid;
+    border-left-color: #0071a5;
+    border-top-color: #0071a5;
+    border-right-color: #0092d5;
+    border-bottom-color: #0092d5;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 0;
+    box-shadow: none;
+    outline: none !important;
+}
+
+.wpc_form button.wpc_submit:disabled,
+.wpc_form input[type="button"].wpc_submit:disabled,
+.wpc_form input[type="submit"].wpc_submit:disabled {
+    opacity:0.6;
+    cursor: default !important;
+    background: #0092d5;
+    border-left-color: #0092d5;
+    border-top-color: #0092d5;
+    border-right-color: #0071a5;
+    border-bottom-color: #0071a5;
+}
+
+
+.wpc_form input[type="button"].wpc_button {
+    background: #f1f1f1;
+    border: 2px solid;
+    border-left-color: #f1f1f1;
+    border-top-color: #f1f1f1;
+    border-right-color: #dbdbdb;
+    border-bottom-color: #dbdbdb;
+    color: #444;
+    padding: 14px 20px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius:0;
+    outline: none !important;
+    cursor: pointer !important;
+}
+
+.wpc_form input[type="button"].wpc_button:hover {
+    background: #e4e4e4;
+    border: 2px solid;
+    border-left-color: #e3e3e3;
+    border-top-color: #e3e3e3;
+    border-right-color: #dbdbdb;
+    border-bottom-color: #dbdbdb;
+    color: #202020;
+    box-shadow: none;
+    outline: none !important;
+}
+
+.wpc_form input[type="button"].wpc_button:focus,
+.wpc_form input[type="button"].wpc_button:active {
+    background: #e4e4e4;
+    border: 2px solid;
+    border-left-color: #dbdbdb;
+    border-top-color: #dbdbdb;
+    border-right-color: #e3e3e3;
+    border-bottom-color: #e3e3e3;
+    color: #444;
+    padding: 14px 20px;
+    margin: 0;
+    box-shadow: none;
+    outline: none !important;
+}
+
+.wpc_form input[type="button"].wpc_button:disabled {
+    cursor:default;
+    opacity:0.6;
+}
+
+
+.wpc_cardimage {
+    height: 30px;
+    width: 40px;
+    display: block;
+    float:left;
+    background: url( "../../images/payment_cards.png");
+    margin: 3px 0 0 0;
+}
+
+.wpc_cardimage.nocard {
+    background-position: 8px 0 !important;
+}
+
+.wpc_cardimage.visa_card {
+    background-position: -37px 0 !important;
+}
+
+.wpc_cardimage.mastercard {
+    background-position: -83px 0 !important;
+}
+
+.wpc_cardimage.amex {
+    background-position: -124px 0 !important;
+}
+
+.wpc_cardimage.discover_card {
+    background-position: -168px 0 !important;
+}
+
+@media (max-width: 570px) {
+    .wpc_form .wpc_form_label {
+        width:100% !important;
+        margin: 0 0 7px 0;
+    }
+
+    .wpc_form .wpc_form_label label:after {
+        content: ":";
+    }
+
+    .wpc_form .wpc_form_field {
+        width:100% !important;
+        margin: 0 0 7px 0;
+    }
+}

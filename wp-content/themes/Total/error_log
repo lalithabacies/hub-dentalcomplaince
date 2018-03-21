@@ -1,0 +1,10 @@
+[21-Sep-2017 09:31:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/404.php on line 10
+[28-Sep-2017 04:45:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/404.php on line 10
+[30-Sep-2017 04:20:57 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/header.php on line 12
+[10-Oct-2017 02:54:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/404.php on line 10
+[16-Oct-2017 22:23:14 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/header.php on line 12
+[17-Oct-2017 06:11:28 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/header.php on line 12
+[18-Oct-2017 20:09:31 America/Chicago] PHP Fatal error:  Call to undefined function is_singular() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/index.php on line 18
+[19-Oct-2017 02:33:35 America/Chicago] PHP Fatal error:  Call to undefined function is_singular() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/index.php on line 18
+[19-Oct-2017 09:36:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/404.php on line 10
+[04-Jan-2018 00:10:59 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/dentalco/public_html/hub/wordpress/wp-content/themes/Total/404.php on line 10

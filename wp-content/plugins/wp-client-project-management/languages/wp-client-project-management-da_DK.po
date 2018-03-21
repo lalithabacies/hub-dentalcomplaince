@@ -1,0 +1,2472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-client-wordpress-client-man\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-12 18:32+0200\n"
+"PO-Revision-Date: 2014-11-23 01:20+0100\n"
+"Last-Translator: Dan Jørgensen <danhove@me.com>\n"
+"Language-Team: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: c:\\wp-client-project-management\n"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:62
+#: c:\wp-client-project-management/includes/pm_class.admin.php:434
+#: c:\wp-client-project-management/includes/pm_class.admin.php:541
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3481
+msgid "My Tasks"
+msgstr "Mine opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:67
+#: c:\wp-client-project-management/includes/pm_class.admin.php:444
+#: c:\wp-client-project-management/includes/pm_class.admin.php:561
+msgid "Teams"
+msgstr "Teams"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:82
+#: c:\wp-client-project-management/includes/pm_class.admin.php:273
+#: c:\wp-client-project-management/includes/pm_class.admin.php:274
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3484
+msgid "Project Management"
+msgstr "Projektledelse"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:186
+msgid "Avatar was added"
+msgstr "profilbillede blev tilføjet"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:208
+msgid "Sorry, you have reached the maximum number of "
+msgstr "Desværre, har du nået det maksimale antal "
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:317
+#: c:\wp-client-project-management/includes/pm_class.admin.php:776
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1105
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1529
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2827
+#: c:\wp-client-project-management/includes/pm_class.user.php:224
+#: c:\wp-client-project-management/includes/pm_class.user.php:420
+msgid " - Cancelled"
+msgstr " - Annulleret"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:318
+#: c:\wp-client-project-management/includes/pm_class.admin.php:777
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1106
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1530
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2828
+#: c:\wp-client-project-management/includes/pm_class.user.php:225
+#: c:\wp-client-project-management/includes/pm_class.user.php:421
+msgid " - Completed"
+msgstr " - færdiggjort"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:319
+#: c:\wp-client-project-management/includes/pm_class.admin.php:778
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1107
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1531
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2829
+#: c:\wp-client-project-management/includes/pm_class.user.php:226
+#: c:\wp-client-project-management/includes/pm_class.user.php:422
+msgid "404 Error"
+msgstr "404-fejl"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:320
+#: c:\wp-client-project-management/includes/pm_class.admin.php:779
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1108
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1532
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2830
+#: c:\wp-client-project-management/includes/pm_class.user.php:227
+#: c:\wp-client-project-management/includes/pm_class.user.php:423
+msgid "403 Forbidden"
+msgstr "403 forbudt"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:321
+#: c:\wp-client-project-management/includes/pm_class.admin.php:780
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1109
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1533
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2831
+#: c:\wp-client-project-management/includes/pm_class.user.php:228
+#: c:\wp-client-project-management/includes/pm_class.user.php:424
+msgid "Forbidden File Type"
+msgstr "Forbudt filtype"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:322
+#: c:\wp-client-project-management/includes/pm_class.admin.php:781
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1110
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1534
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2832
+#: c:\wp-client-project-management/includes/pm_class.user.php:229
+#: c:\wp-client-project-management/includes/pm_class.user.php:425
+msgid "File Too Large"
+msgstr "Filen er for stor"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:323
+#: c:\wp-client-project-management/includes/pm_class.admin.php:782
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1111
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1535
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2833
+#: c:\wp-client-project-management/includes/pm_class.user.php:230
+#: c:\wp-client-project-management/includes/pm_class.user.php:426
+msgid "Unknown Error"
+msgstr "Ukendt fejl"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:431
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2645
+msgid "Projects"
+msgstr "Projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:438
+#: c:\wp-client-project-management/includes/pm_class.admin.php:577
+msgid "Archived Projects"
+msgstr "Arkiverede projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:441
+#: c:\wp-client-project-management/includes/pm_class.admin.php:569
+msgid "Users"
+msgstr "Brugere"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:447
+msgid "Business Sectors"
+msgstr "Erhvervssektorer"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:451
+#: c:\wp-client-project-management/includes/pm_class.admin.php:545
+msgid "Work Request"
+msgstr "Arbejds Anmodning"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:455
+#: c:\wp-client-project-management/includes/pm_class.admin.php:537
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:458
+#: c:\wp-client-project-management/includes/pm_class.admin.php:533
+msgid "Help"
+msgstr "Hjælp"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:479
+msgid "Dashboard"
+msgstr "Betjeningspanel"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:484
+msgid "Tasks"
+msgstr "Opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:489
+msgid "Milestones"
+msgstr "Milepæle"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:494
+msgid "Files"
+msgstr "Filer"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:499
+msgid "Calendar"
+msgstr "Kalender"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:504
+msgid "Team Talk"
+msgstr "Team snak"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:513
+msgid "Client Talk"
+msgstr "Kunde snak"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:550
+#: c:\wp-client-project-management/includes/pm_class.admin.php:558
+#: c:\wp-client-project-management/includes/pm_class.admin.php:566
+#: c:\wp-client-project-management/includes/pm_class.admin.php:574
+#: c:\wp-client-project-management/includes/pm_class.admin.php:597
+#: c:\wp-client-project-management/includes/pm_class.admin.php:605
+#: c:\wp-client-project-management/includes/pm_class.admin.php:612
+#: c:\wp-client-project-management/includes/pm_class.admin.php:619
+#: c:\wp-client-project-management/includes/pm_class.admin.php:626
+#: c:\wp-client-project-management/includes/pm_class.admin.php:819
+#: c:\wp-client-project-management/includes/pm_class.admin.php:956
+#: c:\wp-client-project-management/includes/pm_class.admin.php:963
+#: c:\wp-client-project-management/includes/pm_class.admin.php:970
+#: c:\wp-client-project-management/includes/pm_class.admin.php:977
+#: c:\wp-client-project-management/includes/pm_class.admin.php:985
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:860
+msgid "You don't have permission to this page."
+msgstr "Du har ikke tilladelse til at tilgå denne side."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:553
+msgid "Sectors"
+msgstr "Sektorer"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:600
+msgid "Add Project"
+msgstr "Tilføj projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:675
+msgid "Project"
+msgstr "Projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:694
+msgid "You don't have permission to this project."
+msgstr "Du har ikke tilladelse til dette projekt."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:909
+msgid "Project Managers"
+msgstr "Projektledere"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:915
+msgid "Teammates"
+msgstr "Teamkammerater"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:921
+msgid "Freelancers"
+msgstr "Freelancere"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1454
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:19
+msgid "file"
+msgstr "fil"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1455
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:20
+msgid "files"
+msgstr "filer"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1512
+msgid "Filename"
+msgstr "Filnavn"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1513
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2644
+#: c:\wp-client-project-management/includes/admin/add_project.php:54
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1514
+msgid "Author"
+msgstr "Udsteder"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1515
+msgid "Type"
+msgstr "Type"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1516
+msgid "Creation Date"
+msgstr "Oprettelsesdato"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1638
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1763
+msgid "Please enter project name."
+msgstr "Angiv projektet navn."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1731
+msgid "Can't create project. Please try again later."
+msgstr "Kan ikke oprette projekt. Prøv igen senere."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1755
+#: c:\wp-client-project-management/includes/admin/add_project.php:197
+msgid "Edit Project"
+msgstr "Redigér projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:1908
+msgid "Wrong project ID."
+msgstr "Forkert projekt-ID."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2010
+msgid "A username is required.<br/>"
+msgstr "Der kræves et brugernavn. <br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2013
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2115
+msgid "Email is not valid.<br/>"
+msgstr "E-mail er ikke gyldig. <br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2018
+msgid "Email address already used.<br/>"
+msgstr "E-mail-adressen er allerede i brug. <br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2021
+msgid "Sorry, password is required.<br/>"
+msgstr "Beklager, password er påkrævet.<br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2023
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2126
+msgid "Sorry, confirm password is required.<br/>"
+msgstr "Desværre, du skal bekræfte adgangskoden. <br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2025
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2128
+msgid "Sorry, Passwords are not matched! .<br/>"
+msgstr "Beklager, Adgangskoder matchede ikke..<br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2089
+msgid "Cann't create user!"
+msgstr "Kan ikke oprette bruger!"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2094
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3494
+msgid "Add User"
+msgstr "Tilføj Bruger"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2121
+msgid "Email address already uses.<br/>"
+msgstr "E-mail-adressen er allerede i brug. <br/>"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2212
+msgid "Save Changes to User"
+msgstr "Gem ændringer til Bruger"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2254
+#: c:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:17
+msgid "user"
+msgstr "bruger"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2255
+#: c:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:18
+msgid "users"
+msgstr "brugere"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2309
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3270
+#: c:\wp-client-project-management/includes/admin/add_user.php:143
+msgid "Username"
+msgstr "Brugernavn"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2310
+msgid "Name"
+msgstr "Navn"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2311
+#: c:\wp-client-project-management/includes/admin/add_user.php:155
+msgid "E-mail"
+msgstr "E-mail"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2312
+#: c:\wp-client-project-management/includes/admin/add_user.php:131
+msgid "Role"
+msgstr "Rolle"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2337
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2393
+msgid "Please enter team name."
+msgstr "Indtast venligst et team navn."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2379
+msgid "Can't create team. Please try again later."
+msgstr "Kan ikke oprette team. Prøv igen senere."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2399
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1879
+msgid "Wrong user ID."
+msgstr "Forkert bruger-ID."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2523
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2660
+#: c:\wp-client-project-management/includes/pm_class.user.php:44
+msgid "You don't have permission to this page"
+msgstr "Du har ikke tilladelse til at tilgå denne side"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2610
+#: c:\wp-client-project-management/includes/wpc_pm_sectors_list_table.class.php:17
+msgid "sector"
+msgstr "sektor"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2611
+#: c:\wp-client-project-management/includes/wpc_pm_sectors_list_table.class.php:18
+msgid "sectors"
+msgstr "sektorer"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2643
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2748
+msgid "Title"
+msgstr "Titel"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2713
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2714
+#: c:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:19
+msgid "request"
+msgstr "anmodning"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2749
+msgid "Client"
+msgstr "Kunde"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2750
+msgid "Request Type"
+msgstr "Anmodningstypen"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2920
+#: c:\wp-client-project-management/includes/pm_class.admin.php:2980
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3040
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3100
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3160
+msgid "Assign"
+msgstr "Tildel"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3224
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3226
+#, php-format
+msgid "Assign %s To %s"
+msgstr "Tildel %s til %s"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3239
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3280
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3343
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3355
+msgid "Search"
+msgstr "Søg"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3257
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3365
+msgid "Select all at this page."
+msgstr "Vælg alt på denne side."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3263
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3369
+msgid "Select All."
+msgstr "Vælg alle."
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3271
+msgid "Contact Name"
+msgstr "Kontakt navn"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3274
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3357
+msgid "A to Z"
+msgstr "A til Z"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3275
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3358
+msgid "Z to A"
+msgstr "Z til A"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3276
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3359
+msgid "Date Added (Recent to Earlier)"
+msgstr "Dato tilføjet (seneste til tidligere)"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3277
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3360
+msgid "Date Added (Earlier to Recent)"
+msgstr "Dato tilføjet (tidligere til seneste)"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3278
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3361
+msgid "Assigned show first"
+msgstr "Tildelte vises først"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3308
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3394
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:135
+msgid "Ok"
+msgstr "OK"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3309
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3395
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3678
+#: c:\wp-client-project-management/includes/admin/add_user.php:239
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:136
+msgid "Cancel"
+msgstr "Annuller"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3328
+#, php-format
+msgid "Assign %s To %s:"
+msgstr "Tildel %s til %s:"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3331
+#, php-format
+msgid "Assign %s:"
+msgstr "Tildel %s:"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3479
+msgid "Project Dashboard"
+msgstr "Projekt betjeningspanel"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3499
+msgid "Add New Team"
+msgstr "Tilføj nyt Team"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3529
+#: c:\wp-client-project-management/includes/admin/add_user.php:163
+msgid "Avatar"
+msgstr "Profilbillede"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3542
+#: c:\wp-client-project-management/includes/admin/add_user.php:170
+msgid "Edit avatar"
+msgstr "Rediger profilbillede"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3545
+#: c:\wp-client-project-management/includes/admin/add_user.php:173
+msgid "Add avatar"
+msgstr "Tilføje profilbillede"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3580
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3799
+#: c:\wp-client-project-management/includes/admin/add_user.php:10
+msgid "UPLOAD AVATAR"
+msgstr "UPLOAD profilbillede"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3661
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3868
+#: c:\wp-client-project-management/includes/admin/add_user.php:223
+msgid "Please add your avatar:"
+msgstr "Tilføj venligst dit profilbillede:"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3664
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3871
+#: c:\wp-client-project-management/includes/admin/add_user.php:226
+msgid "or please select from defaults:"
+msgstr "eller Vælg venligst fra standardindstillinger:"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3677
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3883
+#: c:\wp-client-project-management/includes/admin/add_user.php:238
+msgid "Add Avatar"
+msgstr "Tilføje profilbillede"
+
+#: c:\wp-client-project-management/includes/pm_class.admin.php:3885
+msgid "No thanks, I'm incognito"
+msgstr "Nej tak, jeg er incognito"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:44
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:138
+msgid "Wrong Request ID"
+msgstr "Forkert anmodnings-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:50
+msgid "Title is required field"
+msgstr "Titlen er påkrævet felt"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:60
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:157
+msgid "Request does not exists"
+msgstr "Anmodning findes ikke"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:126
+msgid "Can not create project"
+msgstr "Kan ikke oprette projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:154
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2753
+msgid "Something wrong"
+msgstr "Noget er galt"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:167
+msgid "Wrong action"
+msgstr "Forkert handling"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:175
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1507
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1730
+msgid "Title is empty"
+msgstr "Titlen er tom"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:181
+msgid "Wrong price"
+msgstr "Forkert pris"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:187
+msgid "Wrong currency"
+msgstr "Forkert valuta"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:193
+msgid "Wrong Business Sector"
+msgstr "Forkert erhvervssektor"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:225
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:249
+msgid "Wrong ID"
+msgstr "Forkert ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:241
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:259
+msgid "ID does not exists"
+msgstr "ID findes ikke"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:279
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1346
+#: c:\wp-client-project-management/includes/admin/files.php:38
+msgid "Sorry, you have used all of your storage quota."
+msgstr "Desværre, Du har opbrugt din lagerpladskvote."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:588
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:651
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:714
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:785
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:803
+msgid "Completed"
+msgstr "Færdiggjort"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:809
+msgid "Wrong update data."
+msgstr "Forkert opdateringsdata."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:824
+msgid "Mode does not exists"
+msgstr "Tilstand findes ikke"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:829
+msgid "Date does not exists"
+msgstr "Dato findes ikke"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:834
+msgid "Project ID is empty."
+msgstr "Projekt-ID'ET er tomt."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:908
+msgid "Wrong calendar mode"
+msgstr "Forkerte kalender tilstand"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1164
+msgid "Wrong task id"
+msgstr "Forkert opgave-id"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1170
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1470
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1492
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1719
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1810
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1870
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1922
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1960
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2020
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2096
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2147
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2178
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2205
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2234
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2319
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2414
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2438
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2836
+msgid "You don't have permission to this action"
+msgstr "Du har ikke tilladelse til denne handling"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1268
+msgid "Error when try to save message"
+msgstr "Fejl opstod i forsøget på at gemme beskeden."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1328
+msgid "Wrong type"
+msgstr "Forkert type"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1398
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1452
+#: c:\wp-client-project-management/includes/admin/files.php:41
+msgid "There was an error uploading the file, please try again!"
+msgstr "Der opstod en fejl under overførsel af filen, prøv igen!"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1482
+msgid "Wrong task id."
+msgstr "Forkert opgave-id."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1503
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1715
+msgid "Wrong project id."
+msgstr "Forkert projekt-id."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1539
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1864
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1876
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1928
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1954
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2010
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2090
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2141
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2172
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2199
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2228
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2410
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2432
+msgid "Wrong task ID."
+msgstr "Forkert opgave-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1546
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1560
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1584
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1622
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1643
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1932
+msgid "Wrong milestone ID."
+msgstr "Forkert milepæl ID."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1554
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2221
+msgid "Row deleted."
+msgstr "Række slettet."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1564
+msgid "Wrong milestone title."
+msgstr "Forkert milepæl titel."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1578
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1597
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1617
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1917
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1948
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2003
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2084
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2135
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2166
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2193
+msgid "Row Updated."
+msgstr "Række opdateret."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1798
+msgid "Can not create task."
+msgstr "Kan ikke oprette opgave."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1890
+msgid "You cann't assign user to parent task"
+msgstr "Du kan ikke tildele brugeren til  overordnet opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:1971
+msgid "Wrong due date."
+msgstr "Forkert forfaldsdato."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2014
+msgid "Wrong task status."
+msgstr "Forkert opgavestatus."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2102
+msgid "Wrong task priority."
+msgstr "Forkert opgave prioritet."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2154
+msgid "Wrong task title."
+msgstr "Forkert opgave titel."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2241
+msgid "Wrong data"
+msgstr "Forkerte data"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2400
+msgid "You don't have permition to this file"
+msgstr "Du har ikke tilladelse til denne fil"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2402
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2781
+msgid "Success"
+msgstr "Succes"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2404
+msgid "Wrong input data."
+msgstr "Forkert input data."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2689
+msgid "Wrong task ID"
+msgstr "Forkert opgave-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2697
+msgid "Wrong tag ID"
+msgstr "Forkert tag-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2842
+msgid "Wrong Team ID"
+msgstr "Forkert Team-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2849
+msgid "Team does not exists."
+msgstr "Team eksisterer ikke."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:2872
+msgid "Empty Team"
+msgstr "Tomt Team"
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:3200
+msgid "No Users For Assign."
+msgstr "Ingen brugere at Tildele."
+
+#: c:\wp-client-project-management/includes/pm_class.ajax.php:3375
+msgid "No Client Circles For Assign."
+msgstr "Ingen kunde cirkler at Tildele."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:156
+#: c:\wp-client-project-management/includes/pm_class.common.php:166
+#: c:\wp-client-project-management/includes/pm_class.common.php:181
+msgid "Projects List"
+msgstr "Liste over projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:178
+msgid "Text: \"Projects List\""
+msgstr "Tekst: \"Liste over Projekter\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:187
+msgid "Placeholder"
+msgstr "Pladsholder"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:190
+msgid "Click to copy"
+msgstr "Klik her for at kopiere"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:190
+msgid "Placeholder was copied"
+msgstr "Pladsholder blev kopieret"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:196
+msgid "Show Archived Projects"
+msgstr "Vis arkiverede projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:200
+msgid "No"
+msgstr "Nej"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:201
+msgid "Yes"
+msgstr "Ja"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:319
+msgid "Weekly"
+msgstr "Ugentlig"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:473
+msgid "Category successfully edited."
+msgstr "Kategori er redigeret."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:477
+msgid "Category does not exists."
+msgstr "Kategorien eksisterer ikke."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:481
+msgid "Category successfully deleted."
+msgstr "Kategori slettet."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:638
+#, php-format
+msgid "%1$s created project \"%2$s\""
+msgstr "%1$s opretede projektet \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:641
+#, php-format
+msgid "%1$s edited project \"%2$s\""
+msgstr "%1$s redigerede projektet \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:644
+#, php-format
+msgid "%1$s removed project \"%2$s\""
+msgstr "%1$s Fjernede projektet \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:647
+#, php-format
+msgid "%1$s archived project \"%2$s\""
+msgstr "%1$s arkiverede projektet \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:650
+#, php-format
+msgid "%1$s restored project \"%2$s\""
+msgstr "%1$s gendannede projektet \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:661
+#, php-format
+msgid "%1$s changed title for milestone to \"%3$s\""
+msgstr "%1$s ændrede titlen på milepæl til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:668
+#, php-format
+msgid "%1$s changed description for milestone \"%2$s\""
+msgstr "%1$s ændrede beskrivelsen af milepæl \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:675
+#, php-format
+msgid "%1$s created milestone \"%2$s\""
+msgstr "%1$s oprettede milepælen \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:678
+#, php-format
+msgid "%1$s edited milestone \"%2$s\""
+msgstr "%1$s Redigerede milepælen \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:681
+#, php-format
+msgid "%1$s removed milestone \"%2$s\""
+msgstr "%1$s fjernede milepælen \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:692
+#, php-format
+msgid "%1$s appended task \"%2$s\" to milestone \"%3$s\""
+msgstr "%1$s vedlagde opgave \"%2$s\" til milepæl \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:695
+#, php-format
+msgid "%1$s unassigned task \"%2$s\" from milestone \"%3$s\""
+msgstr "%1$s ikke-tildelt opgave \"%2$s\" fra milepæl \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:703
+#, php-format
+msgid "%1$s set due date for task \"%2$s\" to %3$s"
+msgstr "%1$s satte forfaldsdatoen for opgaven \"%2$s\" til %3$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:706
+#, php-format
+msgid "%1$s changed due date for task \"%2$s\" to %3$s"
+msgstr "%1$s fastsatte forfaldsdatoen for opgaven \"%2$s\" til %3$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:713
+#, php-format
+msgid "%1$s set priority for task \"%2$s\" to \"%3$s\""
+msgstr "%1$s fastsatte prioriteten for opgaven \"%2$s\" til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:716
+#, php-format
+msgid "%1$s changed priority for task \"%2$s\" to \"%3$s\""
+msgstr "%1$s ændrede prioriteten for opgaven \"%2$s\" til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:723
+#, php-format
+msgid "%1$s set status for task \"%2$s\" to \"%3$s\""
+msgstr "%1$s angav en status for opgaven \"%2$s\" til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:726
+#, php-format
+msgid "%1$s changed status for task \"%2$s\" to \"%3$s\""
+msgstr "%1$s ændrede statussen for opgaven \"%2$s\" til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:733
+#, php-format
+msgid "%1$s changed title for task to \"%3$s\""
+msgstr "%1$s ændrede titlen på opgave til \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:740
+#, php-format
+msgid "%1$s changed description for task \"%2$s\""
+msgstr "%1$s ændrede beskrivelse af opgaven \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:748
+#, php-format
+msgid "%1$s created task \"%2$s\""
+msgstr "%1$s oprettede opgave \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:751
+#, php-format
+msgid "%1$s edited task \"%2$s\""
+msgstr "%1$s redigerede opgave \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:754
+#, php-format
+msgid "%1$s removed task \"%2$s\""
+msgstr "%1$s fjernede opgave \"%2$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:765
+#, php-format
+msgid "%1$s assigned user %2$s to project \"%3$s\""
+msgstr "%1$s tildelte bruger %2$s til Projekt \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:768
+#, php-format
+msgid "%1$s unassigned user %2$s from project \"%3$s\""
+msgstr "%1$s afmeldte bruger %2$s fra projekt \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:777
+#, php-format
+msgid "%1$s assigned user %2$s to task \"%3$s\""
+msgstr "%1$s tilmeldte bruger %2$s til opgave \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:780
+#, php-format
+msgid "%1$s reassigned user %2$s to task %3$s"
+msgstr "%1$s gentilmeldte bruger %2$s til opgave %3$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:783
+#, php-format
+msgid "%1$s unassigned user %2$s from task \"%3$s\""
+msgstr "%1$s udmeldte bruger %2$s fra opgave \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:790
+#, php-format
+msgid "%1$s appended user %2$s to team %3$s"
+msgstr "%1$s tilføjede bruger %2$s til team %3$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:793
+#, php-format
+msgid "%1$s removed user %2$s from team %3$s"
+msgstr "%1$s Fjernede bruger %2$s fra team %3$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:800
+#, php-format
+msgid "%1$s created a user %2$s"
+msgstr "%1$s opretede en bruger %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:803
+#, php-format
+msgid "%1$s edited a user %2$s"
+msgstr "%1$s Regigerede en bruger %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:806
+#, php-format
+msgid "%1$s removed a user %2$s"
+msgstr "%1$s fjernede en bruger %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:817
+#, php-format
+msgid "%1$s assigned team %2$s to project \"%3$s\""
+msgstr "%1$s tildelte team %2$s opgave \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:820
+#, php-format
+msgid "%1$s unassigned team %2$s from project \"%3$s\""
+msgstr "%1$s afmeldte bruger %2$s fra projekt \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:827
+#, php-format
+msgid "%1$s created team %2$s"
+msgstr "%1$s oprettede team %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:830
+#, php-format
+msgid "%1$s edited team %2$s"
+msgstr "%1$s redigerede team %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:833
+#, php-format
+msgid "%1$s removed team %2$s"
+msgstr "%1$s fjernede team %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:844
+#, php-format
+msgid "%1$s added file %2$s to project \"%3$s\""
+msgstr "%1$s tilføjede fil %2$s til projekt \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:847
+#, php-format
+msgid "%1$s removed file %2$s from project \"%3$s\""
+msgstr "%1$s fjernede fil %2$s fra projekt \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:854
+#, php-format
+msgid "%1$s added file %2$s to task \"%3$s\""
+msgstr "%1$s tilføjede fil %2$s til opgave \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:857
+#, php-format
+msgid "%1$s removed file %2$s from task \"%3$s\""
+msgstr "%1$s fjernede fil %2$s fra opgave \"%3$s\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:864
+#, php-format
+msgid "%1$s created file %2$s"
+msgstr "%1$s oprettede fil %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:867
+#, php-format
+msgid "%1$s removed file %2$s"
+msgstr "%1$s fjernet filen %2$s"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1372
+msgid "PM: Welcome Email"
+msgstr "PM: Velkomst E-mail"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1373
+msgid "Project Management: Welcome Email"
+msgstr "Projektledelse: Velkomst E-mail"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1374
+msgid "  >> This template for welcome new user"
+msgstr "  >> Denne skabelon  bruges til at velkomme nye bruger"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1380
+msgid "PM: Task assigned to Teammate/Freelancer"
+msgstr "PM: Opgave tildelt Teamkammerat/Freelancer"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1381
+msgid "Project Management: Task assigned to Teammate/Freelancer"
+msgstr "Projektledelse: Opgave tildelt Teamkammerat/Freelancer"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1382
+msgid ""
+"  >> This template for notifying when Task assigned to Teammate/Freelancer"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når opgaven tildeles en "
+"Teamkammerat/Freelancer"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1388
+msgid "PM: File is added to assigned Task"
+msgstr "PM:  En fil er tilføjet den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1389
+msgid "Project Management: File is added to assigned Task"
+msgstr "Projektledelse:  En fil er tilføjet til den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1390
+msgid "  >> This template for notifying when File was added to assigned Task"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når, filer er blev tilføjet til "
+"opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1396
+msgid "PM: File is added to assigned Project"
+msgstr "PM: Fil er tilføjet til tildelte projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1397
+msgid "Project Management: File is added to assigned Project"
+msgstr "Projektledelse: Fil er tilføjet til tildelte projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1398
+msgid ""
+"  >> This template for notifying when File was added to assigned Project"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når, filer er blev tilføjet til "
+"tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1404
+msgid "PM: Message posted in Team Talk"
+msgstr "PM: Besked sendt i Team snak"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1405
+msgid "Project Management: Message posted in Team Talk"
+msgstr "Projektledelse: Besked sendt i Team snak"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1406
+msgid "  >> This template for notifying when message posted in Team Talk"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når en besked er sendt i \"Team "
+"snak\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1412
+msgid "PM: Message posted in Client Talk"
+msgstr "PM: Besked sendt i kunde snak"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1413
+msgid "Project Management: Message posted in Client Talk"
+msgstr "Projektledelse: Besked sendt i kunde snak"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1414
+msgid ""
+"  >> This template for notifying Client when message posted in Client Talk"
+msgstr ""
+"  >> Denne skabelon bruges til at meddele kunden, når en besked er sendt i "
+"\"kunde snak\""
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1420
+msgid "PM: Message added to assigned Task"
+msgstr "PM: Besked er tilføjet til tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1421
+msgid "Project Management: Message added to assigned Task"
+msgstr "Projektledelse: Besked er tilføjet til tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1422
+msgid "  >> This template for notifying when message added to assigned Task"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når besked tilføjet til opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1428
+msgid "PM: Task priority modified on assigned Task"
+msgstr "PM: Opgave prioritet ændret til den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1429
+msgid "Project Management: Task priority modified on assigned Task"
+msgstr "Projektledelse: Opgave prioritet ændret  til den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1430
+msgid ""
+"  >> This template for notifying when Task priority modified on assigned Task"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når en opgave prioritet ændres på "
+"opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1436
+msgid "PM: Task due date modified on assigned Task"
+msgstr "PM: Opgave forfaldsdato er ændret på den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1437
+msgid "Project Management: Task due date modified on assigned Task"
+msgstr "Projektledelse: Opgave forfaldsdato er ændret på den tildelte opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1438
+msgid ""
+"  >> This template for notifying when Task due date modified on assigned Task"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når en opgave prioritet ændres på "
+"opgave"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1444
+msgid "PM: New Project is assigned"
+msgstr "PM: Nyt projekt er tildelt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1445
+msgid "Project Management: New Project is assigned"
+msgstr "Projektledelse: Nyt projekt er tildelt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1446
+msgid "  >> This template for notifying when new Project was assigned"
+msgstr ""
+"  >> Denne skabelon bruges til at give besked, når nye projekter er blevet "
+"tildelt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1452
+msgid "PM: New file is uploaded in permissioned projects/tasks"
+msgstr "PM: Ny fil er uploadet i godkendte projekter/opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1453
+msgid "Project Management: New file is uploaded in permissioned projects/tasks"
+msgstr "Projektledelse: Ny fil er uploadet i godkendte projekter/opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1454
+msgid ""
+"  >> This template for notifying when new file is uploaded in permissioned "
+"projects/tasks"
+msgstr ""
+"  >> Denne skabelon bruges til at give besked når nye filer er uploadet i  "
+"godkendte projekter/opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1460
+msgid "PM: Client posts message in Client Talk permissioned projects"
+msgstr "PM: Kunde skrev en besked i \"kunde snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1461
+msgid ""
+"Project Management: Client posts message in Client Talk permissioned projects"
+msgstr ""
+"Projektledelse: Kunde skrev en besked i \"kunde snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1462
+msgid ""
+"  >> This template for notifying when client posts message in Client Talk "
+"permissioned projects"
+msgstr ""
+"  >> Denne skabelon bruges til  at anmelde når kunde har skrevet en besked i "
+"\"kunde snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1468
+msgid "PM: User posts message in Team Talk  permissioned projects"
+msgstr "PM: Brugeren skrev en besked i \"Team snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1469
+msgid ""
+"Project Management: User posts message in Team Talk  permissioned projects"
+msgstr ""
+"Projektledelse: Brugeren skrev en  besked i \"Team snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1470
+msgid ""
+"  >> This template for notifying when user posts message in Team Talk  "
+"permissioned projects"
+msgstr ""
+"  >> Denne skabelon for at anmelde når brugeren skriver en besked i \"Team "
+"snak\" godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1476
+msgid "PM: Teammate/Freelancer is assigned to permissioned projects"
+msgstr "PM: Teamkammerat/Freelancer er tildelt til et godkendt projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1477
+msgid ""
+"Project Management: Teammate/Freelancer is assigned to permissioned projects"
+msgstr "Projektledelse: Teamkammerat/Freelancer er tildelt et godkendt projekt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1478
+msgid ""
+"  >> This template for notifying when Teammate/Freelancer is assigned to "
+"permissioned projects"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når teamkammerat/Freelancer "
+"tildeles godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1484
+msgid "PM: Task status is updated"
+msgstr "PM: Opgavestatus er opdateret"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1485
+msgid "Project Management: Task status is updated"
+msgstr "Projektledelse: Opgavestatus er opdateret"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1486
+msgid "  >> This template for notifying when Task status is updated"
+msgstr ""
+"  >> Denne skabelon bruges til at anmelde når opgavestatus er opdateret"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1492
+msgid "PM: User adds message to any task in permissioned projects"
+msgstr "PM: User adds message to any task in permissioned projects"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1493
+msgid ""
+"Project Management: User adds message to any task in permissioned projects"
+msgstr ""
+"Projektledelse: Bruger føjer beskeder til enhver opgave i godkendte projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1494
+msgid ""
+"  >> This template for notifying when any other user adds message to any "
+"task in permissioned projects"
+msgstr ""
+"  >> This template for notifying when any other user adds message to any "
+"task in permissioned projects"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1500
+msgid "PM: Daily Digest"
+msgstr "PM: Daglig oversigt "
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1501
+msgid "Project Management: Daily Digest"
+msgstr "Project Ledelse: Daglig oversigt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1502
+msgid ""
+"  >> This template for notifying one time per day with all yesterday news."
+msgstr ""
+"  >> Denne skabelon bliver brugt til at underrette, én gang om dagen, om "
+"alle gårsdagens nyheder."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1508
+msgid "PM: Weekly Digest"
+msgstr "PM: Ugentlig oversigt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1509
+msgid "Project Management: Weekly Digest"
+msgstr "Projektledelse: Ugentlig oversigt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1510
+msgid "  >> This template for notifying one time per week all last week news."
+msgstr ""
+"  >> Denne skabelon bruges til at sende notifikationer en gang om ugen "
+"omkring sidste uges nyheder."
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1516
+msgid "PM: Outlook"
+msgstr "PM: Outlook"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1517
+msgid "Project Management: Outlook"
+msgstr "Projektledelse: Outlook"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1518
+msgid "  >> This template for notifying close due dates"
+msgstr ""
+"  >> Denne skabelon bruges til  sende en notifikation om, at forfaldsdato er "
+"tæt på"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1552
+#: c:\wp-client-project-management/includes/pm_class.common.php:1626
+msgid "not established"
+msgstr "ikke etableret"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1685
+#: c:\wp-client-project-management/includes/pm_class.common.php:1846
+msgid "Assigned Projects:"
+msgstr "Tildelte projekter:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1705
+#: c:\wp-client-project-management/includes/pm_class.common.php:1866
+msgid "Completed Tasks:"
+msgstr "Fuldførte opgaver:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1708
+#: c:\wp-client-project-management/includes/pm_class.common.php:1730
+#: c:\wp-client-project-management/includes/pm_class.common.php:1772
+#: c:\wp-client-project-management/includes/pm_class.common.php:1869
+#: c:\wp-client-project-management/includes/pm_class.common.php:1891
+#: c:\wp-client-project-management/includes/pm_class.common.php:1933
+msgid "Project:"
+msgstr "Projekt:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1708
+#: c:\wp-client-project-management/includes/pm_class.common.php:1730
+#: c:\wp-client-project-management/includes/pm_class.common.php:1772
+#: c:\wp-client-project-management/includes/pm_class.common.php:1869
+#: c:\wp-client-project-management/includes/pm_class.common.php:1891
+#: c:\wp-client-project-management/includes/pm_class.common.php:1933
+msgid "Unknown"
+msgstr "Ukendt"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1727
+#: c:\wp-client-project-management/includes/pm_class.common.php:1888
+msgid "Assigned Tasks:"
+msgstr "Tildelte opgaver:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1753
+#: c:\wp-client-project-management/includes/pm_class.common.php:1914
+msgid "Uploaded Files:"
+msgstr "Uploadede filer:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1769
+#: c:\wp-client-project-management/includes/pm_class.common.php:1930
+msgid "Task Messages:"
+msgstr "Opgave meddelelser:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1787
+#: c:\wp-client-project-management/includes/pm_class.common.php:1948
+msgid "Team Talk Activity:"
+msgstr "Team snak aktivitet:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1802
+#: c:\wp-client-project-management/includes/pm_class.common.php:1963
+msgid "Client Talk Activity:"
+msgstr "Kunde snak aktivitet:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1988
+msgid "days"
+msgstr "Dage"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:1999
+#: c:\wp-client-project-management/includes/pm_class.common.php:2004
+msgid "Upcoming Tasks Due:"
+msgstr "Upcoming Tasks Due:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:2004
+msgid "You have no upcoming Tasks"
+msgstr "Du har ingen kommende opgaver"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:2016
+#: c:\wp-client-project-management/includes/pm_class.common.php:2021
+msgid "Upcoming Projects Due:"
+msgstr "Upcoming Projects Due:"
+
+#: c:\wp-client-project-management/includes/pm_class.common.php:2021
+msgid "You have no upcoming Projects"
+msgstr "Du har ingen kommende projekter"
+
+#: c:\wp-client-project-management/includes/pm_class.install.php:95
+msgid "Project Details"
+msgstr "Projektdetaljer"
+
+#: c:\wp-client-project-management/includes/pm_class.install.php:97
+msgid "Page content: [wpc_client_pm_project_details]"
+msgstr "Side indhold: [wpc_client_pm_project_details]"
+
+#: c:\wp-client-project-management/includes/pm_class.user.php:50
+msgid "Wrong file ID"
+msgstr "Forkert fil-ID"
+
+#: c:\wp-client-project-management/includes/pm_class.user.php:109
+msgid "Wrong verify."
+msgstr "Wrong verify."
+
+#: c:\wp-client-project-management/includes/pm_class.user.php:308
+msgid "You don't have permission to this project"
+msgstr "Du har ikke tilladelse til dette projekt"
+
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:25
+#: c:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:25
+#: c:\wp-client-project-management/includes/wpc_pm_sectors_list_table.class.php:23
+#: c:\wp-client-project-management/includes/wpc_pm_users_list_table.class.php:23
+msgid " not found."
+msgstr " ikke fundet."
+
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:153
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:158
+msgid "Download"
+msgstr "Download"
+
+#: c:\wp-client-project-management/includes/wpc_pm_files_list_table.class.php:154
+msgid "Delete"
+msgstr "Slet"
+
+#: c:\wp-client-project-management/includes/wpc_pm_request_list_table.class.php:20
+msgid "requests"
+msgstr "anmodninger"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:37
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:103
+msgid "Project Name"
+msgstr "Projektnavn"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:43
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:121
+msgid "Business Sector"
+msgstr "Erhvervssektorer"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:67
+#: c:\wp-client-project-management/includes/admin/add_project.php:68
+msgid "Select Client"
+msgstr "Vælg kunde"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:85
+msgid "Projected Completion Date"
+msgstr "Forventede afslutningsdato"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:91
+msgid "Assigned to the project"
+msgstr "Tilknyttet projektet"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:94
+#: c:\wp-client-project-management/includes/admin/add_project.php:95
+#, php-format
+msgid "Assign %s and %s"
+msgstr "Tildel %s og %s"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:112
+#: c:\wp-client-project-management/includes/admin/add_project.php:113
+#: c:\wp-client-project-management/includes/admin/add_project.php:130
+#: c:\wp-client-project-management/includes/admin/add_project.php:131
+#: c:\wp-client-project-management/includes/admin/add_project.php:148
+#: c:\wp-client-project-management/includes/admin/add_project.php:149
+#, php-format
+msgid "Assign %s"
+msgstr "Tildel %s"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:169
+msgid "Estimated Value of Project"
+msgstr "Anslåede værdi af projektet"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:173
+msgid "Currency"
+msgstr "valuta"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:195
+msgid "Create Project"
+msgstr "Opret projekt"
+
+#: c:\wp-client-project-management/includes/admin/add_project.php:207
+msgid "Activities"
+msgstr "Aktiviteter"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:131
+#: c:\wp-client-project-management/includes/admin/add_user.php:143
+#: c:\wp-client-project-management/includes/admin/add_user.php:155
+msgid "(required)"
+msgstr "(Påkrævet)"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:135
+msgid "WPC Project Manager"
+msgstr "Projektleder"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:136
+msgid "WPC Teammate"
+msgstr "Teamkammerat"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:137
+msgid "WPC Freelancer"
+msgstr "Freelancer"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:179
+msgid "First Name"
+msgstr "Fornavn"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:187
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:195
+msgid "Display Name"
+msgstr "Brugernavn "
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:203
+msgid "Password"
+msgstr "Kodeord"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:203
+msgid "(twice, required)"
+msgstr "(Gentagelse, kræves)"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:210
+msgid "Strength indicator"
+msgstr "Styrkeindikator"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:211
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+"Tip: Passwordet skal være på mindst syv tegn. For at gøre det stærkere, skal "
+"du  bruge store og små bogstaver, tal og symboler som ! \" ? $ % ^ &amp;)."
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:253
+msgid "Strength Indicator"
+msgstr "Styrkeindikator"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:254
+msgid "Too Short"
+msgstr "For Kort"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:255
+msgid "Bad Password"
+msgstr "Dårligt password"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:256
+msgid "Good Password"
+msgstr "Godt password"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:257
+msgid "Strong Password"
+msgstr "Stærkt password"
+
+#: c:\wp-client-project-management/includes/admin/add_user.php:258
+msgid "Password Mismatch"
+msgstr "Passwords er ikke ens"
+
+#: c:\wp-client-project-management/includes/admin/calendar.php:37
+#: c:\wp-client-project-management/includes/admin/calendar.php:55
+msgid "Removed task with ID"
+msgstr "Fjernet opgave med ID"
+
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:35
+msgid "Create Project by Request"
+msgstr "Opret projekt ved anmodning"
+
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:109
+msgid "Project Description"
+msgstr "Projektbeskrivelse"
+
+#: c:\wp-client-project-management/includes/admin/create_new_project_popup.php:115
+msgid "Due date"
+msgstr "Forfaldsdato"
+
+#: c:\wp-client-project-management/includes/admin/files.php:26
+msgid "File added successfully."
+msgstr "Fil tilføjet."
+
+#: c:\wp-client-project-management/includes/admin/files.php:29
+msgid "File updated successfully."
+msgstr "Fil opdateret."
+
+#: c:\wp-client-project-management/includes/admin/files.php:32
+msgid "File deleted successfully."
+msgstr "Filen er slettet."
+
+#: c:\wp-client-project-management/includes/admin/files.php:35
+msgid "Wrong File ID."
+msgstr "Forkert fil-ID."
+
+#: c:\wp-client-project-management/includes/admin/files.php:52
+msgid "Add File"
+msgstr "Tilføj fil"
+
+#: c:\wp-client-project-management/includes/admin/files.php:63
+msgid "Your browser doesn't have Flash, Silverlight or HTML5 support."
+msgstr "Din browser understøtter ikke Flash, Silverlight eller HTML5."
+
+#: c:\wp-client-project-management/includes/admin/files.php:88
+#: c:\wp-client-project-management/includes/admin/files.php:90
+msgid "Upload"
+msgstr "Upload"
+
+#: c:\wp-client-project-management/includes/admin/files.php:96
+msgid "Select Author"
+msgstr "Vælg forfatter"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:80
+msgid "Wrong value in price field"
+msgstr "Forkert værdi i feltet Salgspris"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:156
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:158
+msgid "Use this section to setup general Project Management settings"
+msgstr ""
+"Brug denne sektion til generelle projektstyrings installationsindstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:163
+msgid "Use uploader:"
+msgstr "Brug uploader:"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:167
+msgid "Regular"
+msgstr "Standard"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:175
+msgid "Auto hide tasks after"
+msgstr "Auto Skjul opgaver efter"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:179
+msgid "days they were completed/closed."
+msgstr "dage efter de blev afsluttet/lukket."
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:186
+msgid "Email Notification Settings"
+msgstr "Email Notifications Indstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:188
+msgid "Use this section to select notification settings"
+msgstr "Brug dette afsnit til at vælge  notifikations indstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:194
+#: c:\wp-client-project-management/includes/admin/global_settings.php:208
+#: c:\wp-client-project-management/includes/admin/global_settings.php:222
+#: c:\wp-client-project-management/includes/admin/global_settings.php:236
+#: c:\wp-client-project-management/includes/admin/global_settings.php:250
+#: c:\wp-client-project-management/includes/admin/global_settings.php:264
+#: c:\wp-client-project-management/includes/admin/global_settings.php:278
+#: c:\wp-client-project-management/includes/admin/global_settings.php:292
+#: c:\wp-client-project-management/includes/admin/global_settings.php:306
+msgid "Hide"
+msgstr "Skjul"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:195
+#: c:\wp-client-project-management/includes/admin/global_settings.php:209
+#: c:\wp-client-project-management/includes/admin/global_settings.php:223
+#: c:\wp-client-project-management/includes/admin/global_settings.php:237
+#: c:\wp-client-project-management/includes/admin/global_settings.php:251
+#: c:\wp-client-project-management/includes/admin/global_settings.php:265
+#: c:\wp-client-project-management/includes/admin/global_settings.php:279
+#: c:\wp-client-project-management/includes/admin/global_settings.php:293
+#: c:\wp-client-project-management/includes/admin/global_settings.php:307
+msgid "Show"
+msgstr "Vis"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:202
+msgid "Task is assigned to Teammate/Freelancer"
+msgstr "Opgaven er tildelt Teamkammerat/Freelancer"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:216
+msgid "Project is assigned to Teammate/Freelancer"
+msgstr "Projektet er tilknyttet Teamkammerat/Freelancer"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:230
+msgid "Message added to assigned Task(s)"
+msgstr "Besked tilføjet til tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:244
+msgid "File is added to assigned Task(s)"
+msgstr "Fil føjes til tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:258
+#: c:\wp-client-project-management/includes/admin/global_settings.php:272
+msgid "Message posted in Team Talk (not sent to Freelancers)"
+msgstr "Besked sendt i “Team snak“ (er ikke sendt til freelancere) "
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:286
+msgid "File is added to assigned Project(s)"
+msgstr "Fil er tilføjet til tildelte projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:300
+msgid "Task priority is modified on assigned Task(s)"
+msgstr "Opgave prioritet er ændret på tildelte opgave(r)"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:314
+msgid "Task due date is modified on assigned Task(s)"
+msgstr "Opgave forfaldsdato ændret den/de tildelte opgave(r)"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:322
+msgid "Work Request Type Settings"
+msgstr "Arbejdsanmodningstype Indstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:324
+msgid ""
+"Use this section to setup Work Request Types for Project Management extension"
+msgstr ""
+"Brug dette afsnit til opsætning  af Arbejds anmodningstyper til projekt "
+"Management udvidelsen"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:327
+msgid "Add Type"
+msgstr "Tilføje Type"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:335
+#: c:\wp-client-project-management/includes/admin/global_settings.php:384
+msgid "Price"
+msgstr "Pris"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:362
+#: c:\wp-client-project-management/includes/admin/user_settings.php:356
+msgid "Update Settings"
+msgstr "Opdatér indstillinger"
+
+#: c:\wp-client-project-management/includes/admin/global_settings.php:394
+msgid "Save"
+msgstr "Gem"
+
+#: c:\wp-client-project-management/includes/admin/messages.php:16
+msgid "Message sent successfully."
+msgstr "Meddelelse blev sendt."
+
+#: c:\wp-client-project-management/includes/admin/messages.php:46
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1543
+#: c:\wp-client-project-management/includes/admin/to_do.php:1422
+msgid "Add Attachment(s)"
+msgstr "Tilføj vedhæftede fil(er)"
+
+#: c:\wp-client-project-management/includes/admin/messages.php:74
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1556
+#: c:\wp-client-project-management/includes/admin/to_do.php:1435
+#: c:\wp-client-project-management/includes/user/project_details.php:51
+msgid "Send"
+msgstr "Send"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:64
+msgid "Milestone title is empty. Please add it."
+msgstr "Milepæl titel er tom. Tilføj venligst en titel."
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:84
+#: c:\wp-client-project-management/includes/admin/milestones.php:168
+#: c:\wp-client-project-management/includes/admin/milestones.php:347
+#: c:\wp-client-project-management/includes/admin/milestones.php:380
+#: c:\wp-client-project-management/includes/admin/milestones.php:482
+msgid "Edit task list"
+msgstr "Redigere opgaveliste"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:93
+#: c:\wp-client-project-management/includes/admin/milestones.php:365
+msgid "No Tasks Yet"
+msgstr "Ingen opgaver endnu"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:310
+msgid "Save Selected Tasks"
+msgstr "Gem markerede opgaver"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:354
+#: c:\wp-client-project-management/includes/admin/milestones.php:395
+#: c:\wp-client-project-management/includes/admin/projects.php:171
+msgid "of"
+msgstr "af"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:398
+#: c:\wp-client-project-management/includes/admin/projects.php:174
+msgid "No Tasks Yet - Create one"
+msgstr "Ingen opgaver endnu - opret en"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:432
+#: c:\wp-client-project-management/includes/admin/projects.php:118
+#: c:\wp-client-project-management/includes/admin/project_details.php:13
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1242
+#: c:\wp-client-project-management/includes/admin/to_do.php:1202
+msgid "Project added successfully."
+msgstr "Projekt tilføjet."
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:435
+#: c:\wp-client-project-management/includes/admin/projects.php:121
+#: c:\wp-client-project-management/includes/admin/project_details.php:16
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1245
+#: c:\wp-client-project-management/includes/admin/to_do.php:1205
+msgid "Project updated successfully."
+msgstr "Projekt opdateret."
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:438
+#: c:\wp-client-project-management/includes/admin/projects.php:124
+#: c:\wp-client-project-management/includes/admin/project_details.php:19
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1248
+#: c:\wp-client-project-management/includes/admin/to_do.php:1208
+msgid "Project deleted successfully."
+msgstr "Projekt slettet."
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:477
+msgid "Due date:"
+msgstr "Forfaldsdato:"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:484
+msgid "ID"
+msgstr "ID"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:486
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1301
+#: c:\wp-client-project-management/includes/admin/to_do.php:1248
+msgid "Status"
+msgstr "Status"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:499
+msgid "Add new milestone"
+msgstr "Tilføj ny milepæl"
+
+#: c:\wp-client-project-management/includes/admin/milestones.php:522
+msgid "Add milestone"
+msgstr "Tilføj milepæl"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:130
+msgid "Wrong file ID."
+msgstr "Forkert fil-ID."
+
+#: c:\wp-client-project-management/includes/admin/projects.php:133
+msgid "Project archived successfully."
+msgstr "projekt arkiveret."
+
+#: c:\wp-client-project-management/includes/admin/projects.php:136
+msgid "Project restored successfully."
+msgstr "Projekt gendannet."
+
+#: c:\wp-client-project-management/includes/admin/projects.php:153
+msgid "New Project"
+msgstr "Nyt Projekt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:194
+msgid "Edit project"
+msgstr "Redigér projekt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:196
+#: c:\wp-client-project-management/includes/admin/projects.php:198
+#: c:\wp-client-project-management/includes/admin/projects.php:200
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:462
+#: c:\wp-client-project-management/includes/admin/to_do.php:396
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:196
+msgid "Restore project"
+msgstr "Gendan projekt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:198
+msgid "Archive project"
+msgstr "Arkiv projekt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:200
+msgid "Delete project"
+msgstr "Slet Projekt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:237
+msgid "All assigned"
+msgstr "Alle tildelt"
+
+#: c:\wp-client-project-management/includes/admin/projects.php:245
+msgid "You don't have any projects"
+msgstr "Du har ikke nogen projekter"
+
+#: c:\wp-client-project-management/includes/admin/project_dashboard.php:75
+msgid "Add Task"
+msgstr "Tilføj opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_dashboard.php:184
+msgid "Recently Added Tasks"
+msgstr "For nylig tilføjet opgaver"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:52
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:130
+#: c:\wp-client-project-management/includes/admin/to_do.php:56
+#: c:\wp-client-project-management/includes/admin/to_do.php:134
+msgid "Please enter tags"
+msgstr "Indtast tags"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:59
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:139
+#: c:\wp-client-project-management/includes/admin/to_do.php:63
+#: c:\wp-client-project-management/includes/admin/to_do.php:143
+msgid "Add new tag:"
+msgstr "Tilføj nyt tag:"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:146
+#: c:\wp-client-project-management/includes/admin/to_do.php:150
+msgid "Select followers"
+msgstr "Vælg følgere"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:274
+#: c:\wp-client-project-management/includes/admin/to_do.php:201
+msgid "Add new task"
+msgstr "Tilføj ny opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:292
+#: c:\wp-client-project-management/includes/admin/to_do.php:219
+msgid "Task"
+msgstr "Opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:292
+#: c:\wp-client-project-management/includes/admin/to_do.php:219
+msgid "Add new Subtask"
+msgstr "Tilføj ny underopgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:489
+#: c:\wp-client-project-management/includes/admin/to_do.php:423
+msgid "Task title is empty. Please add it."
+msgstr "Opgavetitlen er tom. Tilføj venligst en titel."
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:598
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:916
+msgid "None"
+msgstr "Ingen"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:608
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1466
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1631
+msgid "Milestone"
+msgstr "Milepæl"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:961
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1118
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1194
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1312
+#: c:\wp-client-project-management/includes/admin/to_do.php:894
+#: c:\wp-client-project-management/includes/admin/to_do.php:1082
+#: c:\wp-client-project-management/includes/admin/to_do.php:1154
+#: c:\wp-client-project-management/includes/admin/to_do.php:1259
+msgid "From Date"
+msgstr "Fra dato"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:965
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1107
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1198
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1309
+#: c:\wp-client-project-management/includes/admin/to_do.php:898
+#: c:\wp-client-project-management/includes/admin/to_do.php:1071
+#: c:\wp-client-project-management/includes/admin/to_do.php:1158
+#: c:\wp-client-project-management/includes/admin/to_do.php:1256
+msgid "To Date"
+msgstr "Til dato"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:995
+#: c:\wp-client-project-management/includes/admin/to_do.php:943
+msgid "By user"
+msgstr "Af bruger"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1015
+#: c:\wp-client-project-management/includes/admin/to_do.php:967
+msgid "By priority"
+msgstr "Af prioritet"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1035
+#: c:\wp-client-project-management/includes/admin/to_do.php:991
+msgid "By status"
+msgstr "By status"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1055
+#: c:\wp-client-project-management/includes/admin/to_do.php:1015
+msgid "By tags"
+msgstr "By tags"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1075
+#: c:\wp-client-project-management/includes/admin/to_do.php:1039
+msgid "Order By"
+msgstr "Sorter efter"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1135
+#: c:\wp-client-project-management/includes/admin/to_do.php:1099
+msgid "Show All Completed/Closed tasks"
+msgstr "Vis alle afsluttet/lukket opgaver"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1141
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1416
+#: c:\wp-client-project-management/includes/admin/to_do.php:1105
+#: c:\wp-client-project-management/includes/admin/to_do.php:1343
+msgid "Hide All Completed/Closed tasks"
+msgstr "Skjule alle afsluttet/lukket opgaver"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1277
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1488
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1650
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1735
+#: c:\wp-client-project-management/includes/admin/to_do.php:1225
+#: c:\wp-client-project-management/includes/admin/to_do.php:1370
+#: c:\wp-client-project-management/includes/admin/to_do.php:1473
+#: c:\wp-client-project-management/includes/admin/to_do.php:1540
+msgid "Low"
+msgstr "Lav"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1278
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1489
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1651
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1736
+#: c:\wp-client-project-management/includes/admin/to_do.php:1226
+#: c:\wp-client-project-management/includes/admin/to_do.php:1371
+#: c:\wp-client-project-management/includes/admin/to_do.php:1474
+#: c:\wp-client-project-management/includes/admin/to_do.php:1541
+msgid "Normal"
+msgstr "Normal"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1279
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1490
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1652
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1737
+#: c:\wp-client-project-management/includes/admin/to_do.php:1227
+#: c:\wp-client-project-management/includes/admin/to_do.php:1372
+#: c:\wp-client-project-management/includes/admin/to_do.php:1475
+#: c:\wp-client-project-management/includes/admin/to_do.php:1542
+msgid "High"
+msgstr "Høj"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1280
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1491
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1653
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1738
+#: c:\wp-client-project-management/includes/admin/to_do.php:1228
+#: c:\wp-client-project-management/includes/admin/to_do.php:1373
+#: c:\wp-client-project-management/includes/admin/to_do.php:1476
+#: c:\wp-client-project-management/includes/admin/to_do.php:1543
+msgid "Urgent"
+msgstr "Haster"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1283
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1500
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1662
+#: c:\wp-client-project-management/includes/admin/to_do.php:1231
+#: c:\wp-client-project-management/includes/admin/to_do.php:1381
+#: c:\wp-client-project-management/includes/admin/to_do.php:1484
+msgid "New"
+msgstr "Ny"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1284
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1501
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1663
+#: c:\wp-client-project-management/includes/admin/to_do.php:1232
+#: c:\wp-client-project-management/includes/admin/to_do.php:1382
+#: c:\wp-client-project-management/includes/admin/to_do.php:1485
+msgid "Open"
+msgstr "Åbn"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1285
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1502
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1664
+#: c:\wp-client-project-management/includes/admin/to_do.php:1233
+#: c:\wp-client-project-management/includes/admin/to_do.php:1383
+#: c:\wp-client-project-management/includes/admin/to_do.php:1486
+msgid "Pending"
+msgstr "Afventer"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1286
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1503
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1665
+#: c:\wp-client-project-management/includes/admin/to_do.php:1234
+#: c:\wp-client-project-management/includes/admin/to_do.php:1384
+#: c:\wp-client-project-management/includes/admin/to_do.php:1487
+msgid "Testing"
+msgstr "Test"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1288
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1505
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1667
+#: c:\wp-client-project-management/includes/admin/to_do.php:1236
+#: c:\wp-client-project-management/includes/admin/to_do.php:1386
+#: c:\wp-client-project-management/includes/admin/to_do.php:1489
+msgid "Closed"
+msgstr "Lukket"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1298
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1706
+msgid "Assigned user"
+msgstr "Tildelte bruger"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1300
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1732
+#: c:\wp-client-project-management/includes/admin/to_do.php:1247
+#: c:\wp-client-project-management/includes/admin/to_do.php:1537
+msgid "Priority"
+msgstr "Prioritet"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1304
+#: c:\wp-client-project-management/includes/admin/to_do.php:1251
+msgid "ASC"
+msgstr "Stigende"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1305
+#: c:\wp-client-project-management/includes/admin/to_do.php:1252
+msgid "DESC"
+msgstr "Faldende"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1421
+#: c:\wp-client-project-management/includes/admin/to_do.php:1348
+#, php-format
+msgid "only last %s days"
+msgstr "kun sidste %s dage"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1514
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1676
+#: c:\wp-client-project-management/includes/admin/to_do.php:1394
+#: c:\wp-client-project-management/includes/admin/to_do.php:1497
+msgid "Delete Task"
+msgstr "Slet opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1515
+#: c:\wp-client-project-management/includes/admin/to_do.php:1395
+msgid "Add Subtask"
+msgstr "Tilføj underopgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1525
+#: c:\wp-client-project-management/includes/admin/to_do.php:1404
+msgid "Tags"
+msgstr "Tags"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1531
+#: c:\wp-client-project-management/includes/admin/to_do.php:1410
+msgid "Activity"
+msgstr "Aktivivtet"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1532
+#: c:\wp-client-project-management/includes/admin/to_do.php:1411
+msgid "Messages"
+msgstr "Beskeder"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1571
+#: c:\wp-client-project-management/includes/admin/to_do.php:1449
+msgid "Attach File(s) to Task"
+msgstr "Vedhæfte fil (er) til opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1589
+msgid "Followers"
+msgstr "Følgere"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1722
+#: c:\wp-client-project-management/includes/admin/to_do.php:1527
+msgid "Today"
+msgstr "I dag"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1723
+#: c:\wp-client-project-management/includes/admin/to_do.php:1528
+msgid "Tomorrow"
+msgstr "I morgen"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1724
+#: c:\wp-client-project-management/includes/admin/to_do.php:1529
+msgid "5 Days"
+msgstr "5 dage"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1725
+#: c:\wp-client-project-management/includes/admin/to_do.php:1530
+msgid "1 Month"
+msgstr "1 Måned"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1743
+#: c:\wp-client-project-management/includes/admin/to_do.php:1548
+msgid "Add task"
+msgstr "Tilføj opgave"
+
+#: c:\wp-client-project-management/includes/admin/project_tasks.php:1744
+#: c:\wp-client-project-management/includes/admin/to_do.php:1549
+msgid "Add task &amp; Create another"
+msgstr "Tilføj opgave &amp; opret en anden"
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:33
+#: c:\wp-client-project-management/includes/admin/work_request.php:18
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:18
+msgid "Sector added successfully."
+msgstr "Sektor tilføjet."
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:36
+#: c:\wp-client-project-management/includes/admin/work_request.php:21
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:21
+msgid "Sector updated successfully."
+msgstr "Sektor opdateret."
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:39
+#: c:\wp-client-project-management/includes/admin/work_request.php:24
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:24
+msgid "Sector deleted successfully."
+msgstr "Sektor slettet."
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:42
+#: c:\wp-client-project-management/includes/admin/work_request.php:27
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:27
+msgid "Wrong sector ID."
+msgstr "Forkert sektor ID."
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:55
+msgid "Add New Business"
+msgstr "Tilføj ny virksomhed"
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:58
+msgid ""
+"Here you can identify different sectors in your organization, and then "
+"you'll be able to associate projects with certain sectors. Reports can be "
+"generated to show you which business sectors are generating the most load on "
+"your Team"
+msgstr ""
+"Her kan du identificere de forskellige sektorer i din organisation, og "
+"derefter vil du kunne knytte projekter til visse sektorer. Rapporter kan "
+"oprettes for at vise dig, hvilke erhvervssektorer der genererer mest "
+"belastningen på dit Team"
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:62
+msgid "Business Sector Name"
+msgstr "Firma Sektor Navn"
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:68
+msgid "Business Sector Description"
+msgstr "Firma Sektor Beskrivelse"
+
+#: c:\wp-client-project-management/includes/admin/sectors.php:73
+#: c:\wp-client-project-management/includes/admin/teams.php:87
+msgid "Submit"
+msgstr "Send"
+
+#: c:\wp-client-project-management/includes/admin/teams.php:33
+msgid "Team added successfully."
+msgstr "Team tilføjet."
+
+#: c:\wp-client-project-management/includes/admin/teams.php:36
+msgid "Team updated successfully."
+msgstr "Team opdateret."
+
+#: c:\wp-client-project-management/includes/admin/teams.php:39
+msgid "Team deleted successfully."
+msgstr "Team slettet."
+
+#: c:\wp-client-project-management/includes/admin/teams.php:59
+msgid ""
+"Click 'Add New Team' button above to create a new team and assign members."
+"<br />\n"
+"                To add/remove members from an existing Team, simply click on "
+"the Team below and use the pane on the right to select/deselect members"
+msgstr ""
+"Klik på 'Tilføj nyt Team' knappen ovenfor for at oprette et nyt Team og "
+"tilføje medlemmer. < br/>\n"
+" For at tilføje/fjerne medlemmer fra en eksisterende team,  skal du blot "
+"klikke på teamet nedenfor og bruge ruden til højre til at vælge/fravælge "
+"medlemmer"
+
+#: c:\wp-client-project-management/includes/admin/teams.php:65
+msgid "Are you sure you want to delete this team?"
+msgstr "Er du sikker på at du vil slette dette team?"
+
+#: c:\wp-client-project-management/includes/admin/teams.php:76
+msgid "Team Name"
+msgstr "Team Navn"
+
+#: c:\wp-client-project-management/includes/admin/teams.php:82
+msgid "Team Description"
+msgstr "Team beskrivelse"
+
+#: c:\wp-client-project-management/includes/admin/users.php:15
+msgid "User added successfully."
+msgstr "Brugeren tilføjet."
+
+#: c:\wp-client-project-management/includes/admin/users.php:21
+msgid "User updated successfully."
+msgstr "Bruger opdateret korrekt."
+
+#: c:\wp-client-project-management/includes/admin/users.php:24
+msgid "User deleted successfully."
+msgstr "Brugeren er slettet."
+
+#: c:\wp-client-project-management/includes/admin/users.php:27
+msgid "Users deleted successfully."
+msgstr "Brugeren er slettet."
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:53
+msgid "Settings updated successfully."
+msgstr "Indstillinger opdateret."
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:65
+msgid "Use this section to select personal notification settings"
+msgstr "Brug dette afsnit til at vælge indstillinger for personlige beskeder"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:67
+msgid "Send me an email when:"
+msgstr "Send mig en email når:"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:75
+msgid "A file is uploaded in my Task(s)/Project(s)"
+msgstr "En fil er uploadet i opgave(r) /projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:83
+msgid "I am assigned to a new Project"
+msgstr "Jeg er tildelt til et nyt projekt"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:91
+msgid "A Task status is updated in my Project(s)"
+msgstr "En opgavestatus er opdateret i mit/mine projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:99
+msgid "Client posts message in Client Talk in my Project(s)"
+msgstr "En Kunde skrev en besked i \"kunde snak\" i mit/mine projekt(er) "
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:108
+msgid "A message is posted in Team Talk in my Project(s)"
+msgstr "En besked er sendt i \"Team snak\" i mit/mine projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:117
+msgid "A user adds message to a Task in my Project(s)"
+msgstr "En bruger tilføjede en besked til en opgave i mit/mine projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:125
+msgid "A new Teammate/Freelancer is assigned to my Project(s)"
+msgstr "En ny holdkammerat/Freelancer er tilknyttet mit/mine projekt(er)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:137
+msgid "A Task is assigned to me"
+msgstr "En opgave er tildelt mig"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:147
+msgid "I am assigned to a Project"
+msgstr "Jeg er tilknyttet et projekt"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:157
+msgid "A message is posted on my assigned Task(s)"
+msgstr "En besked er sendt på mit/mine tildelte opgave(r)"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:167
+msgid "A file is uploaded to my assigned Task(s)"
+msgstr "En fil er uploadet til min tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:177
+msgid "A message is posted in Team Talk"
+msgstr "En besked er sendt i \"Team snak\""
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:187
+msgid "A file is uploaded to my assigned Project(s)"
+msgstr "En fil er uploadet til mit tildelte projekt"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:197
+msgid "The priority is modified on my assigned Task(s)"
+msgstr "Prioriteten er ændret på ét eller flere af mine tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:207
+msgid "The due date is modified on my assigned Task(s)"
+msgstr "Forfaldsdatoen er ændret på et eller flere af mine opgaver"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:215
+msgid "Receive email Digests?"
+msgstr "Modtag e-mail oversigt?"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:221
+msgid "Daily"
+msgstr "Dagligt"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:225
+msgid "Include in Digest:"
+msgstr "Inkluder i oversigt:"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:233
+#: c:\wp-client-project-management/includes/admin/user_settings.php:292
+msgid "Assigned Projects"
+msgstr "Tildelte projekter"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:241
+msgid "Tasks completed"
+msgstr "Opgaver fuldført"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:249
+#: c:\wp-client-project-management/includes/admin/user_settings.php:300
+msgid "Uploaded Files"
+msgstr "Uploadede filer"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:257
+#: c:\wp-client-project-management/includes/admin/user_settings.php:308
+msgid "Messages in assigned Tasks"
+msgstr "Beskeder i tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:265
+#: c:\wp-client-project-management/includes/admin/user_settings.php:317
+msgid "Team Talk posts"
+msgstr "Team snak Beskeder"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:273
+msgid "Client Talk posts"
+msgstr "Klient snak beskeder"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:284
+msgid "Assigned Tasks"
+msgstr "Tildelte opgaver"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:325
+msgid "Receive email Outlooks?"
+msgstr "Modtag e-mail outlooks?"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:331
+msgid "Start report"
+msgstr "Start rapport"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:332
+msgid "day(s) before the end"
+msgstr "dag(e) inden afslutning"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:335
+msgid "Include in Outlook:"
+msgstr "Inkluder i Outlook:"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:342
+msgid "Upcoming Task due dates"
+msgstr "Kommende opgave forfaldsdatoer"
+
+#: c:\wp-client-project-management/includes/admin/user_settings.php:350
+msgid "Upcoming Project due dates"
+msgstr "Kommende projekt forfaldsdatoer"
+
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:38
+msgid "Work Request Info:"
+msgstr "Arbejdsanmodnings Info: "
+
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:41
+msgid "From Client"
+msgstr "Fra kunde"
+
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:58
+msgid "Attachment(s)"
+msgstr "Vedhæftede fil(er)"
+
+#: c:\wp-client-project-management/includes/admin/work_request_view.php:73
+msgid "Accept"
+msgstr "Acceptér"
+
+#: c:\wp-client-project-management/includes/user/work_request.php:7
+msgid "Work request successfully sent."
+msgstr "Arbejdsanmodning sendt."
